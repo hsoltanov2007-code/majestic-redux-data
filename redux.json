@@ -1,11 +1,33 @@
 [
   {
-    "id": "mad-redux",
-    "name": "Mad Redux",
-    "version": "1.0.0",
-    "description": "Mad Redux для Majestic RP",
-    "size": "1.6 GB",
-    "image": "https://i.imgur.com/your-image.png",
-    "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/v1/mad-redux.zip"
+    "id": "redux",
+    "title": "Redux",
+    "description": "Графические redux моды для GTA V",
+    "image": "",
+    "mods": [
+      {
+        "id": "mad-redux",
+        "name": "Mad Redux",
+        "version": "1.0.0",
+        "description": "Mad Redux для Majestic RP",
+        "size": "1.6 GB",
+        "image": "",
+        "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/v1/mad-redux.zip"
+      }
+    ]
+  },
+  {
+    "id": "timecycle",
+    "title": "Timecycle",
+    "description": "Timecycle, lighting и цветокоррекция",
+    "image": "",
+    "mods": []
+  },
+  {
+    "id": "reshade",
+    "title": "Reshade",
+    "description": "Reshade presets и эффекты",
+    "image": "",
+    "mods": []
   }
 ]
