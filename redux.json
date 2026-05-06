@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "description": "Mad Redux для Majestic RP",
     "size": "1.6 GB",
-    "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/mad-redux.zip"
+    "image": "https://i.imgur.com/your-image.png",
+    "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/v1/mad-redux.zip"
   }
 ]
