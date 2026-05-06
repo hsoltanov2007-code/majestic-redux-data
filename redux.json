@@ -1,10 +1,10 @@
 [
   {
-    "id": "light-redux",
-    "name": "Light Redux",
+    "id": "mad-redux",
+    "name": "Mad Redux",
     "version": "1.0.0",
-    "description": "First Majestic Redux",
-    "size": "1.2 GB",
-    "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/v1/light-redux.zip"
+    "description": "Mad Redux для Majestic RP",
+    "size": "1.6 GB",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=19vnxNC6V1mamk6mlEqY20dxArmBLUJ3m"
   }
 ]
