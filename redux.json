@@ -24,10 +24,10 @@
     "mods": []
   },
   {
-    "id": "reshade",
-    "title": "Reshade",
-    "description": "Reshade presets и эффекты",
-    "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/reshade.png",
+    "id": "gunpack",
+    "title": "GunPack",
+    "description": "Скины на оружие",
+    "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/gunpack.png",
     "mods": []
   }
 ]
