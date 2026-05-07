@@ -3,7 +3,7 @@
     "id": "redux",
     "title": "Redux",
     "description": "Графические redux моды для GTA V",
-    "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/redux.png",
+    "image": "",
     "mods": [
       {
         "id": "mad-redux",
@@ -11,7 +11,7 @@
         "version": "1.0.0",
         "description": "Mad Redux для Majestic RP",
         "size": "1.6 GB",
-        "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/madredux.png",
+        "image": "https://github.com/hsoltanov2007-code/majestic-redux-data/blob/main/images/mad.png",
         "downloadUrl": "ССЫЛКА_НА_ZIP_МОДА"
       }
     ]
@@ -27,7 +27,7 @@
     "id": "reshade",
     "title": "Reshade",
     "description": "Reshade presets и эффекты",
-    "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/reshade.png",
+    "image": "",
     "mods": []
   }
 ]
