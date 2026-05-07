@@ -3,7 +3,7 @@
     "id": "redux",
     "title": "Redux",
     "description": "Графические redux моды для GTA V",
-    "image": "",
+    "image": "https://github.com/hsoltanov2007-code/majestic-redux-data/blob/main/images/mad.png",
     "mods": [
       {
         "id": "mad-redux",
@@ -27,7 +27,7 @@
     "id": "reshade",
     "title": "Reshade",
     "description": "Reshade presets и эффекты",
-    "image": "",
+    "image": "https://github.com/hsoltanov2007-code/majestic-redux-data/blob/main/images/mad.png",
     "mods": []
   }
 ]
