@@ -28,6 +28,16 @@
     "title": "GunPack",
     "description": "Скины на оружие",
     "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/gunpack.png",
-    "mods": []
+    "mods": [
+      {
+        "id": "hardy-gunpack",
+        "name": "HardyGunPack",
+        "version": "1.0.0",
+        "description": "Hardy white gunpack",
+        "size": "63 MB",
+        "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png",
+        "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/HardyGunPack.zip"
+      }
+    ]
   }
 ]
