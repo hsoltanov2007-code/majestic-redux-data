@@ -3,7 +3,7 @@
     "id": "redux",
     "title": "Redux",
     "description": "Графические redux моды для GTA V",
-    "image": "https://github.com/hsoltanov2007-code/majestic-redux-data/blob/main/images/mad.png",
+    "image": "",
     "mods": [
       {
         "id": "mad-redux",
@@ -12,7 +12,7 @@
         "description": "Mad Redux для Majestic RP",
         "size": "1.6 GB",
         "image": "https://github.com/hsoltanov2007-code/majestic-redux-data/blob/main/images/mad.png",
-        "downloadUrl": "ССЫЛКА_НА_ZIP_МОДА"
+        "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/mad-redux.zip"
       }
     ]
   },
@@ -27,7 +27,10 @@
     "id": "reshade",
     "title": "Reshade",
     "description": "Reshade presets и эффекты",
-    "image": "https://github.com/hsoltanov2007-code/majestic-redux-data/blob/main/images/mad.png",
+    "image": "",
     "mods": []
   }
 ]
+
+
+pochemu fotki tak pokazivayutsa 
