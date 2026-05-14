@@ -26,16 +26,7 @@
       "title": "Timecycle",
       "description": "Timecycle, lighting и цветокоррекция",
       "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/timecycle.png",
-      "mods": [
-        {
-          "id": "m",
-          "name": "Пенис рохи",
-          "version": "1.0.0",
-          "description": "",
-          "size": "1488 MB",
-          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip"
-        }
-      ]
+      "mods": []
     },
     {
       "id": "gunpack",
@@ -56,5 +47,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-14T12:39:26.316Z"
+  "updatedAt": "2026-05-14T12:40:06.044Z"
 }
