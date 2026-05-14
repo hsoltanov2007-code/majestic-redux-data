@@ -1,10 +1,8 @@
 {
-  "schemaVersion": 1,
   "app": {
-    "name": "Hardy MODS",
-    "catalogUrl": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/redux.json"
+    "catalogUrl": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/redux.json",
+    "name": "Hardy MODS"
   },
-  "updatedAt": "2026-05-14T09:30:00.000Z",
   "categories": [
     {
       "id": "redux",
@@ -28,7 +26,16 @@
       "title": "Timecycle",
       "description": "Timecycle, lighting и цветокоррекция",
       "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/timecycle.png",
-      "mods": []
+      "mods": [
+        {
+          "id": "m",
+          "name": "Пенис рохи",
+          "version": "1.0.0",
+          "description": "",
+          "size": "1488 MB",
+          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip"
+        }
+      ]
     },
     {
       "id": "gunpack",
@@ -47,5 +54,7 @@
         }
       ]
     }
-  ]
+  ],
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-14T12:39:26.316Z"
 }
