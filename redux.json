@@ -18,6 +18,15 @@
           "size": "1.9 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/mad.png",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/mad-redux.zip"
+        },
+        {
+          "id": "thugger",
+          "name": "Thugger redux",
+          "version": "1.0.0",
+          "description": "Thugger redux для Majestic RP",
+          "size": "1MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/thugger/thugger.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/thugger.jpg"
         }
       ]
     },
@@ -47,5 +56,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-14T12:48:02.124Z"
+  "updatedAt": "2026-05-14T21:24:05.405Z"
 }
