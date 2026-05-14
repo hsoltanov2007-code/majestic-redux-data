@@ -1,12 +1,5 @@
 {
-  "admins": [
-    {
-      "createdAt": "2026-05-14T11:05:52.485Z",
-      "createdBy": "1452029134300774414",
-      "discordId": "1461072034988691538",
-      "label": "admin"
-    }
-  ],
+  "admins": [],
   "ownerDiscordId": "1452029134300774414",
   "schemaVersion": 1
 }
