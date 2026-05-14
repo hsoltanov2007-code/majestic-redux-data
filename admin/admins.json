@@ -1,5 +1,12 @@
 {
-  "admins": [],
+  "admins": [
+    {
+      "createdAt": "2026-05-14T11:06:05.343Z",
+      "createdBy": "1452029134300774414",
+      "discordId": "1461072034988691538",
+      "label": "Rabzik"
+    }
+  ],
   "ownerDiscordId": "1452029134300774414",
   "schemaVersion": 1
 }
