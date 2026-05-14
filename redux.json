@@ -35,7 +35,7 @@
       "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/gunpack.png",
       "mods": [
         {
-          "id": "hardy-gunpack",
+          "id": "hardy-gunpack1",
           "name": "HardyGunPack",
           "version": "1.0.0",
           "description": "Hardy white gunpack",
@@ -47,5 +47,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-14T12:40:06.044Z"
+  "updatedAt": "2026-05-14T12:46:52.623Z"
 }
