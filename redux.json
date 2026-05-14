@@ -1,43 +1,51 @@
-[
-  {
-    "id": "redux",
-    "title": "Redux",
-    "description": "Графические redux моды для GTA V",
-    "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/redux.png",
-    "mods": [
-      {
-        "id": "mad-redux",
-        "name": "MAD REDUX v3.0",
-        "version": "1.0.0",
-        "description": "Mad Redux для Majestic RP",
-        "size": "1.9 GB",
-        "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/mad.png",
-        "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/mad-redux.zip"
-      }
-    ]
+{
+  "schemaVersion": 1,
+  "app": {
+    "name": "Hardy MODS",
+    "catalogUrl": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/redux.json"
   },
-  {
-    "id": "timecycle",
-    "title": "Timecycle",
-    "description": "Timecycle, lighting и цветокоррекция",
-    "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/timecycle.png",
-    "mods": []
-  },
-  {
-    "id": "gunpack",
-    "title": "GunPack",
-    "description": "Скины на оружие",
-    "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/gunpack.png",
-    "mods": [
-      {
-        "id": "hardy-gunpack",
-        "name": "HardyGunPack",
-        "version": "1.0.0",
-        "description": "Hardy white gunpack",
-        "size": "63 MB",
-        "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png",
-        "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/HardyGunPack.zip"
-      }
-    ]
-  }
-]
+  "updatedAt": "2026-05-14T09:30:00.000Z",
+  "categories": [
+    {
+      "id": "redux",
+      "title": "Redux",
+      "description": "Графические redux моды для GTA V",
+      "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/redux.png",
+      "mods": [
+        {
+          "id": "mad-redux",
+          "name": "MAD REDUX v3.0",
+          "version": "1.0.0",
+          "description": "Mad Redux для Majestic RP",
+          "size": "1.9 GB",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/mad.png",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/mad-redux.zip"
+        }
+      ]
+    },
+    {
+      "id": "timecycle",
+      "title": "Timecycle",
+      "description": "Timecycle, lighting и цветокоррекция",
+      "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/timecycle.png",
+      "mods": []
+    },
+    {
+      "id": "gunpack",
+      "title": "GunPack",
+      "description": "Скины на оружие",
+      "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/gunpack.png",
+      "mods": [
+        {
+          "id": "hardy-gunpack",
+          "name": "HardyGunPack",
+          "version": "1.0.0",
+          "description": "Hardy white gunpack",
+          "size": "63 MB",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/HardyGunPack/HardyGunPack.zip"
+        }
+      ]
+    }
+  ]
+}
