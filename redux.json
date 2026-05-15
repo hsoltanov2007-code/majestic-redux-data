@@ -56,11 +56,12 @@
     },
     {
       "id": "sound",
-      "title": "Sound",
+      "title": "Sounds",
       "description": "звуки",
-      "mods": []
+      "mods": [],
+      "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/sounds.png"
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-15T12:03:10.823Z"
+  "updatedAt": "2026-05-15T17:05:45.426Z"
 }
