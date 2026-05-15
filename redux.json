@@ -24,7 +24,7 @@
           "name": "Thugger redux",
           "version": "1.0.0",
           "description": "Thugger redux для Majestic RP",
-          "size": "1MB",
+          "size": "1.6 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/thugger.jpg",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/thugger/thugger.zip"
         }
@@ -58,10 +58,9 @@
       "id": "sound",
       "title": "Sound",
       "description": "звуки",
-      "mods": [],
-      "image": ""
+      "mods": []
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-14T21:38:27.086Z"
+  "updatedAt": "2026-05-15T12:03:10.823Z"
 }
