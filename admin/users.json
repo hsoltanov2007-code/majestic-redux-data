@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "users": [
     {
+      "avatar": "98af3c213a00c1a990c306bfc4ebf781",
+      "createdAt": "2026-05-16T21:05:46.442Z",
+      "discordId": "650387722607001630",
+      "lastSeenAt": "2026-05-16T21:05:46.442Z",
+      "role": "admin",
+      "username": "vrix1e"
+    },
+    {
       "avatar": "7638458293cda4570b9de17b6c6ca4bc",
       "createdAt": "2026-05-16T04:27:55.048Z",
       "discordId": "834830784543850517",
