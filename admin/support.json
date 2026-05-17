@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "tickets": [
     {
+      "createdAt": "2026-05-17T14:35:16.170Z",
+      "id": "cb6f2239-504e-412c-b55a-22b0cf4d1331",
+      "message": "Эээ, за что негатив дебил тупой",
+      "replies": [],
+      "status": "open",
+      "updatedAt": "2026-05-17T14:35:16.170Z",
+      "userId": "650387722607001630",
+      "username": "vrix1e"
+    },
+    {
       "createdAt": "2026-05-17T14:34:51.241Z",
       "id": "3da27ca0-d131-47bb-a469-eb61c7b9891a",
       "message": "Привет, идите нахуй. Роха лох",
