@@ -5,9 +5,18 @@
       "createdAt": "2026-05-17T14:34:51.241Z",
       "id": "3da27ca0-d131-47bb-a469-eb61c7b9891a",
       "message": "Привет, идите нахуй. Роха лох",
-      "replies": [],
-      "status": "open",
-      "updatedAt": "2026-05-17T14:34:51.241Z",
+      "replies": [
+        {
+          "authorId": "650387722607001630",
+          "authorName": "vrix1e",
+          "createdAt": "2026-05-17T14:35:06.919Z",
+          "id": "1b6896c2-3c04-483c-bad3-85f7e4380313",
+          "message": "Привет сам пошёл нахуй, урод ебанный",
+          "role": "admin"
+        }
+      ],
+      "status": "answered",
+      "updatedAt": "2026-05-17T14:35:06.919Z",
       "userId": "650387722607001630",
       "username": "vrix1e"
     },
