@@ -27,6 +27,14 @@
           "size": "1.6 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/thugger.jpg",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/thugger/thugger.zip"
+        },
+        {
+          "id": "mod-3",
+          "name": "HARDY V6",
+          "version": "1.0.0",
+          "description": "HardyV6 redux для Majestic RP",
+          "size": "0 MB",
+          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip"
         }
       ]
     },
@@ -58,10 +66,10 @@
       "id": "sound",
       "title": "Sounds",
       "description": "звуки",
-      "mods": [],
-      "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/sounds.png"
+      "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/sounds.png",
+      "mods": []
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-15T17:05:45.426Z"
+  "updatedAt": "2026-05-20T23:22:24.414Z"
 }
