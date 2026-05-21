@@ -40,10 +40,10 @@
           "id": "hardyv5",
           "name": "HARDY V5",
           "version": "1.0.0",
-          "description": "HardyV5 redux для Majestic RP",
-          "size": "0 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyv5/HardyV5-rpversion.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv5.png"
+          "description": "Проделанная работа:\nFps boost\nОптимизированные приятные таймциклы\nУбрана тряска при взрыве\nУбраны следы от пуль\nУбраны повреждения машины\nДобавлен дым смок, но убран дым от шин\nКастомные интерьеры\nКастомная векторная карта со всеми обозначениями\nКастомная миникарта с цифрами\nПриятные звуки выстрелов\nЭффекты попадания красная кровь\nКастомные прицелы на оружия\nВырезан эффект OOC режима\nПриятные отличимые трассера, в том числе marksman mk2",
+          "size": "1.09 GB",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv5.png",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyv5/HardyV5-rpversion.zip"
         }
       ]
     },
@@ -80,5 +80,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-21T09:14:39.307Z"
+  "updatedAt": "2026-05-21T09:18:13.126Z"
 }
