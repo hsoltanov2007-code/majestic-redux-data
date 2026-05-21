@@ -17,8 +17,7 @@
           "description": "Mad Redux для Majestic RP",
           "size": "1.9 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/mad.png",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/mad-redux.zip",
-          "variants": []
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mad/mad-redux.zip"
         },
         {
           "id": "thugger",
@@ -36,7 +35,19 @@
           "description": "HardyV6 redux для Majestic RP",
           "size": "0 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv6.png",
-          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip"
+          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
+          "variants": [
+            {
+              "id": "light",
+              "name": "Светлый",
+              "downloadUrl": "ada"
+            },
+            {
+              "id": "dark",
+              "name": "Темный",
+              "downloadUrl": "214096"
+            }
+          ]
         },
         {
           "id": "hardyv5",
@@ -82,5 +93,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-21T11:20:50.641Z"
+  "updatedAt": "2026-05-21T12:58:36.142Z"
 }
