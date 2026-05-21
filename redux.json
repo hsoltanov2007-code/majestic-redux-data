@@ -34,7 +34,8 @@
           "version": "1.0.0",
           "description": "HardyV6 redux для Majestic RP",
           "size": "0 MB",
-          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip"
+          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv6.png"
         },
         {
           "id": "hardyv5",
@@ -80,5 +81,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-21T09:20:23.999Z"
+  "updatedAt": "2026-05-21T09:25:45.716Z"
 }
