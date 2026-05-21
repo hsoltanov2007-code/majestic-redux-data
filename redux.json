@@ -81,6 +81,14 @@
           "size": "63 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/HardyGunPack/HardyGunPack.zip"
+        },
+        {
+          "id": "mod1",
+          "name": "123",
+          "version": "1.0.0",
+          "description": "",
+          "size": "0 MB",
+          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip"
         }
       ]
     },
@@ -93,5 +101,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-21T13:00:45.259Z"
+  "updatedAt": "2026-05-21T21:25:50.383Z"
 }
