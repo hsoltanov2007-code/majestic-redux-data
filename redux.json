@@ -34,14 +34,14 @@
           "version": "1.0.0",
           "description": "HardyV6 redux для Majestic RP",
           "size": "0 MB",
-          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv6.png"
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv6.png",
+          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip"
         },
         {
           "id": "hardyv5",
           "name": "HARDY V5",
           "version": "1.0.0",
-          "description": "Проделанная работа:\nFps boost\nОптимизированные приятные таймциклы\nУбрана тряска при взрыве\nУбраны следы от пуль\nУбраны повреждения машины\nДобавлен дым от гранаты, и от шин\nКастомные интерьеры\nКастомная векторная карта со всеми обозначениями\nКастомная миникарта с цифрами\nЭффекты попадания красная кровь\nКастомные прицелы на оружия\nВырезан эффект OOC режима\nПриятные отличимые трассера, в том числе marksman mk2",
+          "description": "Проделанная работа:\n\nFps boost\n\nОптимизированные приятные таймциклы\n\nУбрана тряска при взрыве\n\nУбраны следы от пуль\n\nУбраны повреждения машины\n\nДобавлен дым от гранаты, и от шин\n\nКастомные интерьеры\n\nКастомная векторная карта со всеми обозначениями\n\nКастомная миникарта с цифрами\n\nЭффекты попадания красная кровь\n\nКастомные прицелы на оружия\n\nВырезан эффект OOC режима\n\nПриятные отличимые трассера, в том числе marksman mk2",
           "size": "1.09 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv5.png",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyv5/HardyV5-rpversion.zip"
@@ -81,5 +81,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-21T09:31:50.083Z"
+  "updatedAt": "2026-05-21T09:33:17.222Z"
 }
