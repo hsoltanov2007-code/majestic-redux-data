@@ -29,23 +29,23 @@
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/thugger/thugger.zip"
         },
         {
-          "id": "mod-3",
+          "id": "hardyv6",
           "name": "HARDY V6",
           "version": "1.0.0",
           "description": "HardyV6 redux для Majestic RP",
-          "size": "0 MB",
+          "size": "1.6 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv6.png",
           "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
           "variants": [
             {
               "id": "light",
-              "name": "Светлый",
-              "downloadUrl": "ada"
+              "name": "RP",
+              "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyv6/HardyV6-rpversion.zip"
             },
             {
               "id": "dark",
               "name": "Темный",
-              "downloadUrl": "214096"
+              "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyv6/HardyV6-darkversion.zip"
             }
           ]
         },
@@ -93,5 +93,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-21T12:58:36.142Z"
+  "updatedAt": "2026-05-21T13:00:45.259Z"
 }
