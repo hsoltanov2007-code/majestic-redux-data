@@ -32,7 +32,7 @@
           "id": "hardyv6",
           "name": "HARDY V6",
           "version": "1.0.0",
-          "description": "HardyV6 redux для Majestic RP",
+          "description": "Проделанная работа:\nFps boost\n2 Вариации таймциклов ( RP и Темные )\nУбрана тряска при взрыве\nУбраны следы от пуль\nУбраны повреждения машины\nУбраны дым от шин\nДобавлен смок \nКастомные интерьеры\nКастомная векторная карта со всеми обозначениями\nКастомная миникарта с цифрами\nПриятные звуки выстрелов\nСерые эффекты попадания\nКастомные прицелы на оружия (пропадают через 2 секунды)\nВырезан эффект OOC режима\nПриятные трассера",
           "size": "1.6 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv6.png",
           "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
@@ -97,8 +97,8 @@
           "version": "1.0.0",
           "description": "Hardy liquid gunpack",
           "size": "28 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyliquid/LIQUID.GUNPACK.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyliquid-gunpack.jpg"
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyliquid-gunpack.jpg",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyliquid/LIQUID.GUNPACK.zip"
         }
       ]
     },
@@ -111,5 +111,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-22T10:49:58.219Z"
+  "updatedAt": "2026-05-22T10:59:04.418Z"
 }
