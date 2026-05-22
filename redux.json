@@ -84,12 +84,21 @@
         },
         {
           "id": "hardyschoolgp",
-          "name": "Hardy school",
+          "name": "Hardy School",
           "version": "1.0.0",
-          "description": "",
-          "size": "98 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyschoolgp/Hardy.School.Gunpack.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyschool-gunpack.jpg"
+          "description": "Hardy school gunpack",
+          "size": "97 MB",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyschool-gunpack.jpg",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyschoolgp/Hardy.School.Gunpack.zip"
+        },
+        {
+          "id": "hardyliquid",
+          "name": "Hardy Liquid",
+          "version": "1.0.0",
+          "description": "Hardy liquid gunpack",
+          "size": "28 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyliquid/LIQUID.GUNPACK.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyliquid-gunpack.jpg"
         }
       ]
     },
@@ -102,5 +111,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-22T10:42:50.298Z"
+  "updatedAt": "2026-05-22T10:49:58.219Z"
 }
