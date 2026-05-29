@@ -99,6 +99,15 @@
           "size": "28 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyliquid-gunpack.jpg",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyliquid/LIQUID.GUNPACK.zip"
+        },
+        {
+          "id": "pinkgp",
+          "name": "Pink PANIKA",
+          "version": "1.0.0",
+          "description": "",
+          "size": "93 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/pinkgp/PinkGunPack.panika.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/pinkgunpack.panika.jpg"
         }
       ]
     },
@@ -111,5 +120,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-26T16:49:05.977Z"
+  "updatedAt": "2026-05-29T00:34:12.473Z"
 }
