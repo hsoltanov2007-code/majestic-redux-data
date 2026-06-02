@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "users": [
     {
+      "avatar": "",
+      "createdAt": "2026-06-02T13:46:35.860Z",
+      "discordId": "1077362502364561461",
+      "lastSeenAt": "2026-06-02T13:46:35.860Z",
+      "role": "viewer",
+      "username": "flocky777"
+    },
+    {
       "avatar": "207b50cb057df4cc25171ccbc906d2e8",
       "createdAt": "2026-05-27T16:51:26.321Z",
       "discordId": "602158177341145099",
