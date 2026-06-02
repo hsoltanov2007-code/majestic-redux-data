@@ -106,8 +106,29 @@
           "version": "1.0.0",
           "description": "",
           "size": "93 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/pinkgp/PinkGunPack.panika.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/pinkgunpack.panika.jpg"
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/pinkgunpack.panika.jpg",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/pinkgp/PinkGunPack.panika.zip"
+        },
+        {
+          "id": "mod-5",
+          "name": "SpiderV2 PANIKA",
+          "version": "1.0.0",
+          "description": "",
+          "size": "0 MB",
+          "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
+          "variants": [
+            {
+              "id": "light",
+              "name": "Светлый",
+              "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod-light.zip"
+            },
+            {
+              "id": "dark",
+              "name": "Темный",
+              "downloadUrl": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png"
+            }
+          ],
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/SpiderV2.jpg"
         }
       ]
     },
@@ -120,5 +141,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-05-29T00:36:31.099Z"
+  "updatedAt": "2026-06-02T02:29:09.328Z"
 }
