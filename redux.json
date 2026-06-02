@@ -120,13 +120,13 @@
           "variants": [
             {
               "id": "light",
-              "name": "Светлый",
-              "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod-light.zip"
+              "name": "Белый",
+              "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/spiderwgp/Spiderwhite.zip"
             },
             {
               "id": "dark",
-              "name": "Темный",
-              "downloadUrl": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png"
+              "name": "Чёрный",
+              "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/spiderbgp/Spiderblack.zip"
             }
           ]
         }
@@ -141,5 +141,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-02T02:33:17.466Z"
+  "updatedAt": "2026-06-02T22:30:26.913Z"
 }
