@@ -5,9 +5,18 @@
       "createdAt": "2026-06-02T13:33:32.998Z",
       "id": "6e1829ba-501e-435f-a3bc-c94cbfbfc7c7",
       "message": "sosi xuy",
-      "replies": [],
-      "status": "open",
-      "updatedAt": "2026-06-02T13:33:32.998Z",
+      "replies": [
+        {
+          "authorId": "834830784543850517",
+          "authorName": "damikda",
+          "createdAt": "2026-06-02T13:33:59.912Z",
+          "id": "b642944f-3c41-47b9-9714-9c4f9dc80b9a",
+          "message": "Соси",
+          "role": "admin"
+        }
+      ],
+      "status": "answered",
+      "updatedAt": "2026-06-02T13:33:59.912Z",
       "userId": "1452029134300774414",
       "username": "sxuyali11"
     },
