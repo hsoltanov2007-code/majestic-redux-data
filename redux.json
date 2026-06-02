@@ -114,19 +114,19 @@
           "name": "SpiderV2 PANIKA",
           "version": "1.0.0",
           "description": "",
-          "size": "0 MB",
+          "size": "55 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/SpiderV2.jpg",
           "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
           "variants": [
             {
               "id": "light",
-              "name": "Белый",
-              "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/spiderwgp/Spiderwhite.zip"
+              "name": "Светлый",
+              "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod-light.zip"
             },
             {
               "id": "dark",
-              "name": "Чёрный",
-              "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/spiderbgp/Spiderblack.zip"
+              "name": "Темный",
+              "downloadUrl": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png"
             }
           ]
         }
@@ -141,5 +141,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-02T22:30:26.913Z"
+  "updatedAt": "2026-06-02T22:57:02.976Z"
 }
