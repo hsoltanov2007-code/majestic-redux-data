@@ -13,10 +13,18 @@
           "id": "b642944f-3c41-47b9-9714-9c4f9dc80b9a",
           "message": "Соси",
           "role": "admin"
+        },
+        {
+          "authorId": "834830784543850517",
+          "authorName": "damikda",
+          "createdAt": "2026-06-02T13:34:10.202Z",
+          "id": "ac09b5c8-7d3e-4222-92ed-4213d5a50914",
+          "message": "Яйца",
+          "role": "admin"
         }
       ],
       "status": "answered",
-      "updatedAt": "2026-06-02T13:33:59.912Z",
+      "updatedAt": "2026-06-02T13:34:10.202Z",
       "userId": "1452029134300774414",
       "username": "sxuyali11"
     },
