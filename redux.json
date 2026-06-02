@@ -115,6 +115,7 @@
           "version": "1.0.0",
           "description": "",
           "size": "0 MB",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Spider V2.jpg",
           "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
           "variants": [
             {
@@ -127,8 +128,7 @@
               "name": "Темный",
               "downloadUrl": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardy-gunpack.png"
             }
-          ],
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/SpiderV2.jpg"
+          ]
         }
       ]
     },
@@ -141,5 +141,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-02T02:29:09.328Z"
+  "updatedAt": "2026-06-02T02:30:08.492Z"
 }
