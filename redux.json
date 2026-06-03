@@ -120,12 +120,12 @@
           "variants": [
             {
               "id": "light",
-              "name": "Светлый",
+              "name": "Белый",
               "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/spiderbgp/Spiderwhite.zip"
             },
             {
               "id": "dark",
-              "name": "Темный",
+              "name": "Чёрный",
               "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/spiderbgp/Spiderblack.zip"
             }
           ]
@@ -136,8 +136,8 @@
           "version": "1.0.0",
           "description": "",
           "size": "121 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/archivegp/archivepanika.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Archive.jpg"
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Archive.jpg",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/archivegp/archivepanika.zip"
         },
         {
           "id": "rangergp",
@@ -145,8 +145,8 @@
           "version": "1.0.0",
           "description": "",
           "size": "105 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/rangergp/rangerpanika.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Ranger.jpg"
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Ranger.jpg",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/rangergp/rangerpanika.zip"
         },
         {
           "id": "lightgp",
@@ -154,8 +154,8 @@
           "version": "1.0.0",
           "description": "",
           "size": "108 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/lightgp/lightpanika.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Light.jpg"
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Light.jpg",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/lightgp/lightpanika.zip"
         },
         {
           "id": "outlinegp",
@@ -163,8 +163,8 @@
           "version": "1.0.0",
           "description": "",
           "size": "54 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/outlinegp/Outline.zip",
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Outline.jpg"
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Outline.jpg",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/outlinegp/Outline.zip"
         }
       ]
     },
@@ -177,5 +177,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-03T01:28:35.123Z"
+  "updatedAt": "2026-06-03T01:32:21.878Z"
 }
