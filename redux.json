@@ -110,7 +110,7 @@
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/pinkgp/PinkGunPack.panika.zip"
         },
         {
-          "id": "mod-5",
+          "id": "spiderbgp",
           "name": "SpiderV2 PANIKA",
           "version": "1.0.0",
           "description": "",
@@ -129,6 +129,42 @@
               "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/spiderbgp/Spiderblack.zip"
             }
           ]
+        },
+        {
+          "id": "archivegp",
+          "name": "Archive PANIKA",
+          "version": "1.0.0",
+          "description": "",
+          "size": "121 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/archivegp/archivepanika.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Archive.jpg"
+        },
+        {
+          "id": "rangergp",
+          "name": "Ranger PANIKA",
+          "version": "1.0.0",
+          "description": "",
+          "size": "105 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/rangergp/rangerpanika.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Ranger.jpg"
+        },
+        {
+          "id": "lightgp",
+          "name": "Light PANIKA",
+          "version": "1.0.0",
+          "description": "",
+          "size": "108 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/lightgp/lightpanika.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Light.jpg"
+        },
+        {
+          "id": "outlinegp",
+          "name": "Outline Panika",
+          "version": "1.0.0",
+          "description": "",
+          "size": "54 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/outlinegp/Outline.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Outline.jpg"
         }
       ]
     },
@@ -141,5 +177,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-02T22:59:25.848Z"
+  "updatedAt": "2026-06-03T01:28:28.272Z"
 }
