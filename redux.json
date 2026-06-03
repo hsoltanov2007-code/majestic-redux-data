@@ -104,7 +104,7 @@
           "id": "pinkgp",
           "name": "Pink PANIKA",
           "version": "1.0.0",
-          "description": "",
+          "description": " Heavy Rifle\n Heavy Shotgun \n Heavy Sniper MK2  \n Heavy Sniper\n Marksm Mk2\n Carbine Rifle MK2\n Special Carabine MK2\n Special Carabine\n Assault Shotgun\n Pulik mk2",
           "size": "93 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/pinkgunpack.panika.jpg",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/pinkgp/PinkGunPack.panika.zip"
@@ -113,7 +113,7 @@
           "id": "spiderbgp",
           "name": "SpiderV2 PANIKA",
           "version": "1.0.0",
-          "description": " Heavy Rifle\n Heavy Shotgun \n Heavy Sniper MK2\n Heavy Sniper\n Special Carabine MK2\n Special Carabine\n Assault Shotgun\n Pulik mk2",
+          "description": " Heavy Rifle\n Heavy Shotgun \n Heavy Sniper MK2  \n Heavy Sniper\n Marksm Mk2\n Carbine Rifle MK2\n Special Carabine MK2\n Special Carabine\n Assault Shotgun\n Pulik mk2",
           "size": "55 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/SpiderV2.jpg",
           "downloadUrl": "https://github.com/USER/REPO/releases/download/v1/mod.zip",
@@ -186,5 +186,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-03T15:54:58.921Z"
+  "updatedAt": "2026-06-03T15:56:18.259Z"
 }
