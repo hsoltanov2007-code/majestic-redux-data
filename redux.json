@@ -134,8 +134,8 @@
           "id": "archivegp",
           "name": "Archive PANIKA",
           "version": "1.0.0",
-          "description": "",
-          "size": "121 MB",
+          "description": " Heavy Rifle\n Heavy Shotgun \n Heavy Sniper MK2  \n Heavy Sniper\n Marksm Mk2\n Carbine Rifle MK2\n Special Carabine MK2\n Special Carabine\n Assault Shotgun\n Pulik mk2",
+          "size": "220 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Archive.jpg",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/archivegp/archivepanika.zip"
         },
@@ -143,7 +143,7 @@
           "id": "rangergp",
           "name": "Ranger PANIKA",
           "version": "1.0.0",
-          "description": "",
+          "description": " Heavy Rifle\n Heavy Shotgun \n Heavy Sniper MK2  \n Heavy Sniper\n Marksm Mk2\n Carbine Rifle MK2\n Special Carabine MK2\n Special Carabine\n Assault Shotgun\n Pulik mk2",
           "size": "105 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Ranger.jpg",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/rangergp/rangerpanika.zip"
@@ -177,5 +177,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-03T01:33:11.304Z"
+  "updatedAt": "2026-06-03T01:38:41.822Z"
 }
