@@ -165,6 +165,15 @@
           "size": "54 MB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Outline.jpg",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/outlinegp/Outline.zip"
+        },
+        {
+          "id": "prinstreamx492",
+          "name": "Prinstream x 492 PANIKA",
+          "version": "1.0.0",
+          "description": " Heavy Rifle\n Heavy Shotgun \n Heavy Sniper MK2 (Светяшка)\n Heavy Sniper\n Special Carabine MK2\n Special Carabine\n Assault Shotgun\n Pulik mk2",
+          "size": "121 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/prinstreamx492/prinstreampanika.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/Prinstream.jpg"
         }
       ]
     },
@@ -177,5 +186,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-03T01:38:41.822Z"
+  "updatedAt": "2026-06-03T15:53:31.397Z"
 }
