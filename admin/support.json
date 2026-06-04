@@ -5,9 +5,18 @@
       "createdAt": "2026-06-04T14:36:17.981Z",
       "id": "3b762b06-275d-427e-a6d7-c06b7d5f68af",
       "message": "Авто-отчет Hardy MODS\nСтатус: Обновлений нет\nВерсия: 0.1.87\nGTA: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\nСистемная папка: по умолчанию\nУстановлено модов: 1\nПоследний шаг: нет",
-      "replies": [],
-      "status": "open",
-      "updatedAt": "2026-06-04T14:36:17.981Z",
+      "replies": [
+        {
+          "authorId": "1452029134300774414",
+          "authorName": "sxuyali11",
+          "createdAt": "2026-06-04T14:37:25.019Z",
+          "id": "79eeb073-45a7-4523-bcd8-b9384f6eb4c0",
+          "message": "zzzz",
+          "role": "owner"
+        }
+      ],
+      "status": "answered",
+      "updatedAt": "2026-06-04T14:37:25.019Z",
       "userId": "1452029134300774414",
       "username": "sxuyali11"
     },
