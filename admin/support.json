@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "tickets": [
     {
+      "createdAt": "2026-06-04T14:36:17.981Z",
+      "id": "3b762b06-275d-427e-a6d7-c06b7d5f68af",
+      "message": "Авто-отчет Hardy MODS\nСтатус: Обновлений нет\nВерсия: 0.1.87\nGTA: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\nСистемная папка: по умолчанию\nУстановлено модов: 1\nПоследний шаг: нет",
+      "replies": [],
+      "status": "open",
+      "updatedAt": "2026-06-04T14:36:17.981Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11"
+    },
+    {
       "createdAt": "2026-06-02T13:33:32.998Z",
       "id": "6e1829ba-501e-435f-a3bc-c94cbfbfc7c7",
       "message": "sosi xuy",
