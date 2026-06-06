@@ -1,0 +1,23 @@
+{
+  "downloadsTotal": 1,
+  "popularMods": [
+    {
+      "count": 1,
+      "modId": "pinkgp",
+      "modName": "Pink PANIKA"
+    }
+  ],
+  "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "pinkgp",
+      "modName": "Pink PANIKA",
+      "time": "2026-06-06T23:14:09.314Z",
+      "userId": "602158177341145099",
+      "username": "chikifrixxs",
+      "variantName": "",
+      "version": "1.0.0"
+    }
+  ],
+  "schemaVersion": 1
+}
