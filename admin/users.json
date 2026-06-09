@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "users": [
     {
+      "avatar": "",
+      "createdAt": "2026-06-09T13:45:06.128Z",
+      "discordId": "1017707911973183509",
+      "lastSeenAt": "2026-06-09T13:45:06.128Z",
+      "role": "viewer",
+      "username": "matvey_martocci"
+    },
+    {
       "avatar": "a38fdf1ea42d3d5349e60601732a5e5d",
       "createdAt": "2026-06-09T11:14:45.316Z",
       "discordId": "796562432553910322",
