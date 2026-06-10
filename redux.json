@@ -57,22 +57,6 @@
           "size": "1.09 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv5.png",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyv5/HardyV5-rpversion.zip"
-        },
-        {
-          "id": "mod-5",
-          "name": "qzltime",
-          "version": "1.0.0",
-          "description": "",
-          "size": "0 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/mod-5-v1.0.0/mod-5-1.0.0.zip",
-          "rpfPatches": [
-            {
-              "file": "common/data/timecycle/w_clear.xml",
-              "internalPath": "common/data/timecycle/w_clear.xml",
-              "rpfPath": "update/update.rpf"
-            }
-          ],
-          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/mod-5-1.0.0.png"
         }
       ]
     },
@@ -202,5 +186,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-10T14:59:41.807Z"
+  "updatedAt": "2026-06-10T15:01:05.074Z"
 }
