@@ -1,13 +1,28 @@
 {
-  "downloadsTotal": 1,
+  "downloadsTotal": 2,
   "popularMods": [
     {
       "count": 1,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
+    },
+    {
+      "count": 1,
+      "modId": "qzltime",
+      "modName": "qzltime"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "qzltime",
+      "modName": "qzltime",
+      "time": "2026-06-10T15:26:47.262Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "pinkgp",
