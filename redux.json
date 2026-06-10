@@ -57,6 +57,15 @@
           "size": "1.09 GB",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/hardyreduxv5.png",
           "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/hardyv5/HardyV5-rpversion.zip"
+        },
+        {
+          "id": "zombie",
+          "name": "ZOMBIE",
+          "version": "1.0.0",
+          "description": "",
+          "size": "2.1 ГБ",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/zombie/zombie.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/zombie-1.0.0.jpg"
         }
       ]
     },
@@ -333,5 +342,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-10T19:20:59.613Z"
+  "updatedAt": "2026-06-10T19:54:01.545Z"
 }
