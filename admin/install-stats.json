@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 2,
+  "downloadsTotal": 3,
   "popularMods": [
     {
       "count": 1,
@@ -10,9 +10,24 @@
       "count": 1,
       "modId": "qzltime",
       "modName": "qzltime"
+    },
+    {
+      "count": 1,
+      "modId": "outlinegp",
+      "modName": "Outline Panika"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "outlinegp",
+      "modName": "Outline Panika",
+      "time": "2026-06-10T19:14:52.882Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "qzltime",
