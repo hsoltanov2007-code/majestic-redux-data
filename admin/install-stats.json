@@ -14,6 +14,16 @@
   ],
   "recentInstalls": [
     {
+      "action": "restore",
+      "modId": "qzltime",
+      "modName": "qzltime",
+      "time": "2026-06-10T15:36:38.418Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": ""
+    },
+    {
       "action": "install",
       "modId": "qzltime",
       "modName": "qzltime",
