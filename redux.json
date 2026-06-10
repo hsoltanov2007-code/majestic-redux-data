@@ -68,12 +68,12 @@
       "mods": [
         {
           "id": "qzltime",
-          "name": "qzltime",
+          "name": "QZL",
           "version": "1.0.0",
           "description": "",
           "size": "3 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/qzl/qzltime.zip",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/mod-5-1.0.0.png",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/qzl/qzltime.zip",
           "rpfPatches": [
             {
               "file": "common/data/cloudkeyframes.xml",
@@ -333,5 +333,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-10T15:25:15.144Z"
+  "updatedAt": "2026-06-10T19:20:59.613Z"
 }
