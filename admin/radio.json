@@ -1,56 +1,64 @@
 {
-    "schemaVersion":  1,
-    "enabled":  true,
-    "startedAt":  "2026-06-10T20:00:46.883Z",
-    "updatedAt":  "2026-06-10T20:00:46.883Z",
-    "tracks":  [
-                   {
-                       "id":  "toxi-i-got-u",
-                       "title":  "Toxi$ - I GOT U",
-                       "artist":  "Toxi$",
-                       "duration":  163,
-                       "size":  6532702,
-                       "url":  "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/toxi-i-got-u.mp3"
-                   },
-                   {
-                       "id":  "4ice-dolgo",
-                       "title":  "Dolgo",
-                       "artist":  "4ICE",
-                       "duration":  105,
-                       "size":  4201534,
-                       "url":  "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/4ice-dolgo.mp3"
-                   },
-                   {
-                       "id":  "madk1d-tak-poxuy",
-                       "title":  "tak poxuy",
-                       "artist":  "madk1d",
-                       "duration":  108,
-                       "size":  4326928,
-                       "url":  "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/madk1d-tak-poxuy.mp3"
-                   },
-                   {
-                       "id":  "madk1d-supermarket",
-                       "title":  "supermarket",
-                       "artist":  "madk1d",
-                       "duration":  119,
-                       "size":  4768914,
-                       "url":  "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/madk1d-supermarket.mp3"
-                   },
-                   {
-                       "id":  "madk1d-ty-che-obidelas",
-                       "title":  "ty che obidelas",
-                       "artist":  "madk1d",
-                       "duration":  90,
-                       "size":  3601763,
-                       "url":  "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/madk1d-ty-che-obidelas.mp3"
-                   },
-                   {
-                       "id":  "temnyjj-princ-overdoz",
-                       "title":  "overdoz",
-                       "artist":  "temnyjj princ",
-                       "duration":  89,
-                       "size":  3611820,
-                       "url":  "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/temnyjj-princ-overdoz.mp3"
-                   }
-               ]
+  "enabled": true,
+  "schemaVersion": 1,
+  "startedAt": "2026-06-10T20:00:46.883Z",
+  "tracks": [
+    {
+      "artist": "Toxi$",
+      "duration": 163,
+      "id": "toxi-i-got-u",
+      "size": 6532702,
+      "title": "Toxi$ - I GOT U",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/toxi-i-got-u.mp3"
+    },
+    {
+      "artist": "4ICE",
+      "duration": 105,
+      "id": "4ice-dolgo",
+      "size": 4201534,
+      "title": "Dolgo",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/4ice-dolgo.mp3"
+    },
+    {
+      "artist": "madk1d",
+      "duration": 108,
+      "id": "madk1d-tak-poxuy",
+      "size": 4326928,
+      "title": "tak poxuy",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/madk1d-tak-poxuy.mp3"
+    },
+    {
+      "artist": "madk1d",
+      "duration": 119,
+      "id": "madk1d-supermarket",
+      "size": 4768914,
+      "title": "supermarket",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/madk1d-supermarket.mp3"
+    },
+    {
+      "artist": "madk1d",
+      "duration": 90,
+      "id": "madk1d-ty-che-obidelas",
+      "size": 3601763,
+      "title": "ty che obidelas",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/madk1d-ty-che-obidelas.mp3"
+    },
+    {
+      "artist": "temnyjj princ",
+      "duration": 89,
+      "id": "temnyjj-princ-overdoz",
+      "size": 3611820,
+      "title": "overdoz",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/temnyjj-princ-overdoz.mp3"
+    },
+    {
+      "artist": "",
+      "duration": 173,
+      "id": "track-1781174766645",
+      "size": 6924792,
+      "title": "Татьяна Куртукова   Матушка",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/track-1781174766645.mp3"
+    }
+  ],
+  "updatedAt": "2026-06-11T10:46:27.626Z"
 }
