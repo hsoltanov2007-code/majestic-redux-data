@@ -84,7 +84,7 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/zxkai-no-batidao-zxkai-populars-music.ru.mp3"
     },
     {
-      "artist": "slava marlow",
+      "artist": "Slava Marlow",
       "duration": 117,
       "id": "slava-marlow-snova-ja-napivajus",
       "size": 4769289,
@@ -92,20 +92,12 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/slava-marlow-snova-ja-napivajus.mp3"
     },
     {
-      "artist": "Gazan",
+      "artist": "GAZAN",
       "duration": 81,
       "id": "gazan-cheremsha-81433948",
       "size": 3286924,
       "title": "Черемша",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/gazan-cheremsha-81433948.mp3"
-    },
-    {
-      "artist": "",
-      "duration": 108,
-      "id": "xxxmanera-never-broke-again",
-      "size": 4324997,
-      "title": "xxxmanera   Never Broke Again",
-      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/xxxmanera-never-broke-again.mp3"
     },
     {
       "artist": "",
@@ -180,5 +172,5 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/big-baby-tape-turbo-majestic-78196434.mp3"
     }
   ],
-  "updatedAt": "2026-06-11T11:01:42.910Z"
+  "updatedAt": "2026-06-11T11:04:03.771Z"
 }
