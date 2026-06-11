@@ -92,11 +92,11 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/slava-marlow-snova-ja-napivajus.mp3"
     },
     {
-      "artist": "",
+      "artist": "Gazan",
       "duration": 81,
       "id": "gazan-cheremsha-81433948",
       "size": 3286924,
-      "title": "Gazan CHEREMSHA 81433948",
+      "title": "Черемша",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/gazan-cheremsha-81433948.mp3"
     },
     {
@@ -180,5 +180,5 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/big-baby-tape-turbo-majestic-78196434.mp3"
     }
   ],
-  "updatedAt": "2026-06-11T11:01:31.351Z"
+  "updatedAt": "2026-06-11T11:01:42.910Z"
 }
