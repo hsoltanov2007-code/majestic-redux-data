@@ -82,7 +82,23 @@
       "size": 3595493,
       "title": "ZXKAI   NO BATIDAO   ZXKAI (populars music.ru)",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/zxkai-no-batidao-zxkai-populars-music.ru.mp3"
+    },
+    {
+      "artist": "",
+      "duration": 117,
+      "id": "slava-marlow-snova-ja-napivajus",
+      "size": 4769289,
+      "title": "slava marlow snova ja napivajus",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/slava-marlow-snova-ja-napivajus.mp3"
+    },
+    {
+      "artist": "",
+      "duration": 81,
+      "id": "gazan-cheremsha-81433948",
+      "size": 3286924,
+      "title": "Gazan CHEREMSHA 81433948",
+      "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/gazan-cheremsha-81433948.mp3"
     }
   ],
-  "updatedAt": "2026-06-11T10:52:53.261Z"
+  "updatedAt": "2026-06-11T10:53:51.636Z"
 }
