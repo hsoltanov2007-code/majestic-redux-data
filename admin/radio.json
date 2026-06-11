@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "schemaVersion": 1,
   "startedAt": "2026-06-11T10:47:08.285Z",
   "tracks": [
@@ -60,5 +60,5 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/track-1781174766645.mp3"
     }
   ],
-  "updatedAt": "2026-06-11T10:47:34.727Z"
+  "updatedAt": "2026-06-11T10:48:24.447Z"
 }
