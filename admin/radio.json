@@ -124,11 +124,11 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/xxxmanera-skazhi-mne-kto-ty.mp3"
     },
     {
-      "artist": "",
+      "artist": "HARDY",
       "duration": 151,
       "id": "leader-blacklist-forhub-soundcloud-to-mp3",
       "size": 2415803,
-      "title": "leader blacklist forhub Soundcloud to mp3",
+      "title": "leader blacklist",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/leader-blacklist-forhub-soundcloud-to-mp3.mp3"
     },
     {
@@ -172,5 +172,5 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/big-baby-tape-turbo-majestic-78196434.mp3"
     }
   ],
-  "updatedAt": "2026-06-11T11:04:03.771Z"
+  "updatedAt": "2026-06-11T11:04:45.210Z"
 }
