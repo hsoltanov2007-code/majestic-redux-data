@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "users": [
     {
+      "avatar": "cd26a5da751d16508d7c3a6559a278b1",
+      "createdAt": "2026-06-11T10:40:47.018Z",
+      "discordId": "834830784543850517",
+      "lastSeenAt": "2026-06-11T10:40:47.018Z",
+      "role": "admin",
+      "username": "damikda"
+    },
+    {
       "avatar": "",
       "createdAt": "2026-06-09T13:45:06.128Z",
       "discordId": "1017707911973183509",
