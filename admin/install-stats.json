@@ -1,8 +1,8 @@
 {
-  "downloadsTotal": 5,
+  "downloadsTotal": 6,
   "popularMods": [
     {
-      "count": 3,
+      "count": 4,
       "modId": "qzltime",
       "modName": "QZL"
     },
@@ -18,6 +18,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "qzltime",
+      "modName": "QZL",
+      "time": "2026-06-11T12:29:43.500Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "qzltime",
