@@ -76,11 +76,11 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/icegergert-sky-rae-2025.mp3"
     },
     {
-      "artist": "",
+      "artist": "ZXKAI",
       "duration": 90,
       "id": "zxkai-no-batidao-zxkai-populars-music.ru",
       "size": 3595493,
-      "title": "ZXKAI   NO BATIDAO   ZXKAI (populars music.ru)",
+      "title": "NO BATIDAO",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/zxkai-no-batidao-zxkai-populars-music.ru.mp3"
     },
     {
@@ -180,5 +180,5 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/big-baby-tape-turbo-majestic-78196434.mp3"
     }
   ],
-  "updatedAt": "2026-06-11T11:00:49.514Z"
+  "updatedAt": "2026-06-11T11:01:07.410Z"
 }
