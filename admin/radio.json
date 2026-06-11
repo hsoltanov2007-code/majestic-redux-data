@@ -132,27 +132,27 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/leader-blacklist-forhub-soundcloud-to-mp3.mp3"
     },
     {
-      "artist": "",
+      "artist": "паранойя",
       "duration": 121,
       "id": "alaska-puffer-prod.-by-555kenichi-fumiko-speenzy",
       "size": 4848816,
-      "title": "паранойя   ALASKA PUFFER (prod. by 555kenichi, fumiko, speenzy)",
+      "title": "ALASKA PUFFER",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/alaska-puffer-prod.-by-555kenichi-fumiko-speenzy.mp3"
     },
     {
-      "artist": "",
+      "artist": "korolevskiii XVII",
       "duration": 143,
       "id": "korolevskijj-xvii-sv-moscow-80428675",
       "size": 5729741,
-      "title": "korolevskijj XVII sv moscow 80428675",
+      "title": "sv moscow",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/korolevskijj-xvii-sv-moscow-80428675.mp3"
     },
     {
-      "artist": "",
+      "artist": "Big Baby Tape, Aarne",
       "duration": 164,
       "id": "big-baby-tape-aarne-supersonic-78053875",
       "size": 6569920,
-      "title": "Big Baby Tape Aarne Supersonic 78053875",
+      "title": "Supersonic",
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/big-baby-tape-aarne-supersonic-78053875.mp3"
     },
     {
@@ -172,5 +172,5 @@
       "url": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/radio/big-baby-tape-turbo-majestic-78196434.mp3"
     }
   ],
-  "updatedAt": "2026-06-11T11:04:45.210Z"
+  "updatedAt": "2026-06-11T11:05:27.886Z"
 }
