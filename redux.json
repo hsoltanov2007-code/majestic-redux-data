@@ -227,8 +227,8 @@
           "version": "1.0.0",
           "description": "",
           "size": "3 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/katafalka-v1.0.0/katafalka-1.0.0.zip",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/katafalka-1.0.0.png",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/katafalka-v1.0.0/katafalka-1.0.0.zip",
           "rpfPatches": [
             {
               "file": "common/data/timecycle/timecycle_mods_1.xml",
@@ -333,6 +333,142 @@
             {
               "file": "common/data/timecycle/w_xmas.xml",
               "internalPath": "common/data/timecycle/w_xmas.xml",
+              "rpfPath": "update/update.rpf"
+            }
+          ]
+        },
+        {
+          "id": "vanilla-timecycle-gucci-v3",
+          "name": "vanilla timecycle gucci v3",
+          "version": "1.0.0",
+          "description": "",
+          "size": "3 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/vanilla-timecycle-gucci-v3-v1.0.0/vanilla-timecycle-gucci-v3-1.0.0.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/vanilla-timecycle-gucci-v3-1.0.0.png",
+          "rpfPatches": [
+            {
+              "file": "common/data/cloudkeyframes.xml",
+              "internalPath": "common/data/cloudkeyframes.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/clouds.xml",
+              "internalPath": "common/data/clouds.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/timecycle_mods_1.xml",
+              "internalPath": "common/data/timecycle/timecycle_mods_1.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/timecycle_mods_2.xml",
+              "internalPath": "common/data/timecycle/timecycle_mods_2.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/timecycle_mods_3.xml",
+              "internalPath": "common/data/timecycle/timecycle_mods_3.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/timecycle_mods_4.xml",
+              "internalPath": "common/data/timecycle/timecycle_mods_4.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/underwater_deep.xml",
+              "internalPath": "common/data/timecycle/underwater_deep.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_blizzard.xml",
+              "internalPath": "common/data/timecycle/w_blizzard.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_clear.xml",
+              "internalPath": "common/data/timecycle/w_clear.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_clearing.xml",
+              "internalPath": "common/data/timecycle/w_clearing.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_clouds.xml",
+              "internalPath": "common/data/timecycle/w_clouds.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_extrasunny.xml",
+              "internalPath": "common/data/timecycle/w_extrasunny.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_foggy.xml",
+              "internalPath": "common/data/timecycle/w_foggy.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_halloween.xml",
+              "internalPath": "common/data/timecycle/w_halloween.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_neutral.xml",
+              "internalPath": "common/data/timecycle/w_neutral.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_overcast.xml",
+              "internalPath": "common/data/timecycle/w_overcast.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_rain.xml",
+              "internalPath": "common/data/timecycle/w_rain.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_rainhalloween.xml",
+              "internalPath": "common/data/timecycle/w_rainhalloween.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_smog.xml",
+              "internalPath": "common/data/timecycle/w_smog.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_snow.xml",
+              "internalPath": "common/data/timecycle/w_snow.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_snowhalloween.xml",
+              "internalPath": "common/data/timecycle/w_snowhalloween.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_snowlight.xml",
+              "internalPath": "common/data/timecycle/w_snowlight.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_thunder.xml",
+              "internalPath": "common/data/timecycle/w_thunder.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/timecycle/w_xmas.xml",
+              "internalPath": "common/data/timecycle/w_xmas.xml",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "common/data/visualsettings.dat",
+              "internalPath": "common/data/visualsettings.dat",
               "rpfPath": "update/update.rpf"
             }
           ]
@@ -458,5 +594,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-12T17:36:06.014Z"
+  "updatedAt": "2026-06-12T17:49:36.280Z"
 }
