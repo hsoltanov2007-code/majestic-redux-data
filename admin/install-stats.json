@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 14,
+  "downloadsTotal": 15,
   "popularMods": [
     {
       "count": 5,
@@ -7,7 +7,7 @@
       "modName": "QZL"
     },
     {
-      "count": 2,
+      "count": 3,
       "modId": "map-alegri",
       "modName": "vector map alegri"
     },
@@ -38,6 +38,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-06-13T23:20:57.488Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "outlinegp",
