@@ -40,6 +40,16 @@
   "recentInstalls": [
     {
       "action": "restore",
+      "modId": "outlinegp",
+      "modName": "Outline Panika",
+      "time": "2026-06-13T23:07:47.796Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": ""
+    },
+    {
+      "action": "restore",
       "modId": "map-alegri",
       "modName": "vector map alegri",
       "time": "2026-06-13T23:07:46.456Z",
