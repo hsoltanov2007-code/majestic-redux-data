@@ -2,60 +2,12 @@
   "schemaVersion": 1,
   "users": [
     {
-      "avatar": "cd26a5da751d16508d7c3a6559a278b1",
-      "createdAt": "2026-06-11T10:40:47.018Z",
-      "discordId": "834830784543850517",
-      "lastSeenAt": "2026-06-11T10:40:47.018Z",
-      "role": "admin",
-      "username": "damikda"
-    },
-    {
-      "avatar": "",
-      "createdAt": "2026-06-09T13:45:06.128Z",
-      "discordId": "1017707911973183509",
-      "lastSeenAt": "2026-06-10T15:03:37.349Z",
-      "role": "viewer",
-      "username": "matvey_martocci"
-    },
-    {
-      "avatar": "a38fdf1ea42d3d5349e60601732a5e5d",
-      "createdAt": "2026-06-09T11:14:45.316Z",
-      "discordId": "796562432553910322",
-      "lastSeenAt": "2026-06-10T17:58:24.629Z",
-      "role": "viewer",
-      "username": "threedaysafterimmortality"
-    },
-    {
       "avatar": "1630c59cf61011f0c987db345e3297ee",
-      "createdAt": "2026-06-08T22:31:41.650Z",
+      "createdAt": "2026-06-13T06:10:40.362Z",
       "discordId": "1452029134300774414",
-      "lastSeenAt": "2026-06-13T05:15:09.998Z",
+      "lastSeenAt": "2026-06-13T06:10:40.362Z",
       "role": "owner",
       "username": "sxuyali11"
-    },
-    {
-      "avatar": "207b50cb057df4cc25171ccbc906d2e8",
-      "createdAt": "2026-06-05T06:55:43.512Z",
-      "discordId": "602158177341145099",
-      "lastSeenAt": "2026-06-10T23:17:32.914Z",
-      "role": "viewer",
-      "username": "chikifrixxs"
-    },
-    {
-      "avatar": "98af3c213a00c1a990c306bfc4ebf781",
-      "createdAt": "2026-06-05T01:40:58.859Z",
-      "discordId": "650387722607001630",
-      "lastSeenAt": "2026-06-12T19:35:12.010Z",
-      "role": "admin",
-      "username": "vrix1e"
-    },
-    {
-      "avatar": "e663efd79138d31ae83bf59645137be4",
-      "createdAt": "2026-06-04T22:43:58.656Z",
-      "discordId": "1461072034988691538",
-      "lastSeenAt": "2026-06-05T10:45:18.134Z",
-      "role": "viewer",
-      "username": "kinderrabzik"
     }
   ]
 }
