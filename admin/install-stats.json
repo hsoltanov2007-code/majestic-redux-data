@@ -40,6 +40,16 @@
   "recentInstalls": [
     {
       "action": "restore",
+      "modId": "mad-redux",
+      "modName": "MAD REDUX v3.0",
+      "time": "2026-06-13T23:58:51.630Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": ""
+    },
+    {
+      "action": "restore",
       "modId": "map-alegri",
       "modName": "vector map alegri",
       "time": "2026-06-13T23:27:02.805Z",
