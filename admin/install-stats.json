@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 13,
+  "downloadsTotal": 14,
   "popularMods": [
     {
       "count": 5,
@@ -17,14 +17,14 @@
       "modName": "MAD REDUX v3.0"
     },
     {
-      "count": 1,
-      "modId": "pinkgp",
-      "modName": "Pink PANIKA"
+      "count": 2,
+      "modId": "outlinegp",
+      "modName": "Outline Panika"
     },
     {
       "count": 1,
-      "modId": "outlinegp",
-      "modName": "Outline Panika"
+      "modId": "pinkgp",
+      "modName": "Pink PANIKA"
     },
     {
       "count": 1,
@@ -38,6 +38,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "outlinegp",
+      "modName": "Outline Panika",
+      "time": "2026-06-13T23:20:46.807Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "mad-redux",
