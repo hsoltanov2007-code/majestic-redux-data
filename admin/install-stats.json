@@ -40,6 +40,16 @@
   "recentInstalls": [
     {
       "action": "restore",
+      "modId": "outlinegp",
+      "modName": "Outline Panika",
+      "time": "2026-06-13T23:58:53.108Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": ""
+    },
+    {
+      "action": "restore",
       "modId": "mad-redux",
       "modName": "MAD REDUX v3.0",
       "time": "2026-06-13T23:58:51.630Z",
