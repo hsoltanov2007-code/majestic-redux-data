@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 10,
+  "downloadsTotal": 11,
   "popularMods": [
     {
       "count": 5,
@@ -30,9 +30,24 @@
       "count": 1,
       "modId": "vanilla-timecycle-gucci-v3",
       "modName": "vanilla timecycle gucci v3"
+    },
+    {
+      "count": 1,
+      "modId": "katafalka",
+      "modName": "Katafalka"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "katafalka",
+      "modName": "Katafalka",
+      "time": "2026-06-13T21:04:39.496Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "vanilla-timecycle-gucci-v3",
