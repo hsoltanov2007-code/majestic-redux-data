@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 9,
+  "downloadsTotal": 10,
   "popularMods": [
     {
       "count": 5,
@@ -25,9 +25,24 @@
       "count": 1,
       "modId": "mad-redux",
       "modName": "MAD REDUX v3.0"
+    },
+    {
+      "count": 1,
+      "modId": "vanilla-timecycle-gucci-v3",
+      "modName": "vanilla timecycle gucci v3"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "vanilla-timecycle-gucci-v3",
+      "modName": "vanilla timecycle gucci v3",
+      "time": "2026-06-13T21:03:39.556Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "mad-redux",
