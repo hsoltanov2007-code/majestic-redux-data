@@ -343,8 +343,8 @@
           "version": "1.0.0",
           "description": "",
           "size": "3 MB",
-          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/vanilla-timecycle-gucci-v3-v1.0.0/vanilla-timecycle-gucci-v3-1.0.0.zip",
           "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/vanilla-timecycle-gucci-v3-1.0.0.png",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/vanilla-timecycle-gucci-v3-v1.0.0/vanilla-timecycle-gucci-v3-1.0.0.zip",
           "rpfPatches": [
             {
               "file": "common/data/cloudkeyframes.xml",
@@ -594,5 +594,5 @@
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-12T17:49:36.280Z"
+  "updatedAt": "2026-06-13T20:48:43.016Z"
 }
