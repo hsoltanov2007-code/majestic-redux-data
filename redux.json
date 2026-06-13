@@ -591,8 +591,41 @@
       "description": "звуки",
       "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/sounds.png",
       "mods": []
+    },
+    {
+      "id": "map",
+      "title": "Map",
+      "description": "карта",
+      "mods": [
+        {
+          "id": "map-alegri",
+          "name": "vector map alegri",
+          "version": "1.0.0",
+          "description": "",
+          "size": "97 MB",
+          "downloadUrl": "https://github.com/hsoltanov2007-code/majestic-redux-data/releases/download/map-alegri-v1.0.0/map-alegri-1.0.0.zip",
+          "image": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/images/map-alegri-1.0.0.png",
+          "rpfPatches": [
+            {
+              "file": "x64/data/cdimages/scaleform_generic.rpf",
+              "internalPath": "x64/data/cdimages/scaleform_generic.rpf",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "x64/levels/gta5/minimap.rpf",
+              "internalPath": "x64/levels/gta5/minimap.rpf",
+              "rpfPath": "update/update.rpf"
+            },
+            {
+              "file": "x64/patch/data/cdimages/scaleform_minimap.rpf",
+              "internalPath": "x64/patch/data/cdimages/scaleform_minimap.rpf",
+              "rpfPath": "update/update.rpf"
+            }
+          ]
+        }
+      ]
     }
   ],
   "schemaVersion": 1,
-  "updatedAt": "2026-06-13T20:50:42.598Z"
+  "updatedAt": "2026-06-13T20:53:43.730Z"
 }
