@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 8,
+  "downloadsTotal": 9,
   "popularMods": [
     {
       "count": 5,
@@ -20,9 +20,24 @@
       "count": 1,
       "modId": "map-alegri",
       "modName": "vector map alegri"
+    },
+    {
+      "count": 1,
+      "modId": "mad-redux",
+      "modName": "MAD REDUX v3.0"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "mad-redux",
+      "modName": "MAD REDUX v3.0",
+      "time": "2026-06-13T21:02:38.145Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "map-alegri",
