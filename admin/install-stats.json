@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 7,
+  "downloadsTotal": 8,
   "popularMods": [
     {
       "count": 5,
@@ -15,9 +15,24 @@
       "count": 1,
       "modId": "outlinegp",
       "modName": "Outline Panika"
+    },
+    {
+      "count": 1,
+      "modId": "map-alegri",
+      "modName": "vector map alegri"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-06-13T20:55:03.835Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "qzltime",
