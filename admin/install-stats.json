@@ -1,10 +1,15 @@
 {
-  "downloadsTotal": 11,
+  "downloadsTotal": 12,
   "popularMods": [
     {
       "count": 5,
       "modId": "qzltime",
       "modName": "QZL"
+    },
+    {
+      "count": 2,
+      "modId": "map-alegri",
+      "modName": "vector map alegri"
     },
     {
       "count": 1,
@@ -15,11 +20,6 @@
       "count": 1,
       "modId": "outlinegp",
       "modName": "Outline Panika"
-    },
-    {
-      "count": 1,
-      "modId": "map-alegri",
-      "modName": "vector map alegri"
     },
     {
       "count": 1,
@@ -38,6 +38,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-06-13T21:05:08.774Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "katafalka",
