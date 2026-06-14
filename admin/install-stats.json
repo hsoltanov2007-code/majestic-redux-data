@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 21,
+  "downloadsTotal": 22,
   "popularMods": [
     {
       "count": 7,
@@ -32,14 +32,14 @@
       "modName": "vanilla timecycle gucci v3"
     },
     {
-      "count": 1,
-      "modId": "pinkgp",
-      "modName": "Pink PANIKA"
+      "count": 2,
+      "modId": "thugger",
+      "modName": "Thugger redux"
     },
     {
       "count": 1,
-      "modId": "thugger",
-      "modName": "Thugger redux"
+      "modId": "pinkgp",
+      "modName": "Pink PANIKA"
     },
     {
       "count": 1,
@@ -48,6 +48,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "thugger",
+      "modName": "Thugger redux",
+      "time": "2026-06-14T14:53:09.585Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "vanilla-timecycle-gucci-v3",
