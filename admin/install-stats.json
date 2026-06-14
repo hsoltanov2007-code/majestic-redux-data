@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 16,
+  "downloadsTotal": 17,
   "popularMods": [
     {
       "count": 6,
@@ -22,6 +22,11 @@
       "modName": "Outline Panika"
     },
     {
+      "count": 2,
+      "modId": "katafalka",
+      "modName": "Katafalka"
+    },
+    {
       "count": 1,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
@@ -30,14 +35,19 @@
       "count": 1,
       "modId": "vanilla-timecycle-gucci-v3",
       "modName": "vanilla timecycle gucci v3"
-    },
-    {
-      "count": 1,
-      "modId": "katafalka",
-      "modName": "Katafalka"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "katafalka",
+      "modName": "Katafalka",
+      "time": "2026-06-14T00:12:32.035Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "qzltime",
