@@ -1,8 +1,8 @@
 {
-  "downloadsTotal": 17,
+  "downloadsTotal": 18,
   "popularMods": [
     {
-      "count": 6,
+      "count": 7,
       "modId": "qzltime",
       "modName": "QZL"
     },
@@ -38,6 +38,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "qzltime",
+      "modName": "QZL",
+      "time": "2026-06-14T00:54:09.693Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "katafalka",
