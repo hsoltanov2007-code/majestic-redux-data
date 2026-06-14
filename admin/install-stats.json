@@ -1,8 +1,8 @@
 {
-  "downloadsTotal": 15,
+  "downloadsTotal": 16,
   "popularMods": [
     {
-      "count": 5,
+      "count": 6,
       "modId": "qzltime",
       "modName": "QZL"
     },
@@ -38,6 +38,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "qzltime",
+      "modName": "QZL",
+      "time": "2026-06-14T00:06:53.384Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "outlinegp",
