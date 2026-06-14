@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 18,
+  "downloadsTotal": 19,
   "popularMods": [
     {
       "count": 7,
@@ -35,9 +35,24 @@
       "count": 1,
       "modId": "vanilla-timecycle-gucci-v3",
       "modName": "vanilla timecycle gucci v3"
+    },
+    {
+      "count": 1,
+      "modId": "thugger",
+      "modName": "Thugger redux"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "thugger",
+      "modName": "Thugger redux",
+      "time": "2026-06-14T10:38:11.213Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "qzltime",
