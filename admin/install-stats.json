@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 19,
+  "downloadsTotal": 20,
   "popularMods": [
     {
       "count": 7,
@@ -27,14 +27,14 @@
       "modName": "Katafalka"
     },
     {
-      "count": 1,
-      "modId": "pinkgp",
-      "modName": "Pink PANIKA"
+      "count": 2,
+      "modId": "vanilla-timecycle-gucci-v3",
+      "modName": "vanilla timecycle gucci v3"
     },
     {
       "count": 1,
-      "modId": "vanilla-timecycle-gucci-v3",
-      "modName": "vanilla timecycle gucci v3"
+      "modId": "pinkgp",
+      "modName": "Pink PANIKA"
     },
     {
       "count": 1,
@@ -43,6 +43,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "vanilla-timecycle-gucci-v3",
+      "modName": "vanilla timecycle gucci v3",
+      "time": "2026-06-14T10:39:00.957Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "thugger",
