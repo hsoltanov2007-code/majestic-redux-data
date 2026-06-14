@@ -39,6 +39,16 @@
   ],
   "recentInstalls": [
     {
+      "action": "restore",
+      "modId": "katafalka",
+      "modName": "Katafalka",
+      "time": "2026-06-14T00:24:07.519Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": ""
+    },
+    {
       "action": "install",
       "modId": "katafalka",
       "modName": "Katafalka",
