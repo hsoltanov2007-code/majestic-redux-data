@@ -1,8 +1,8 @@
 {
-  "downloadsTotal": 23,
+  "downloadsTotal": 24,
   "popularMods": [
     {
-      "count": 7,
+      "count": 8,
       "modId": "qzltime",
       "modName": "QZL"
     },
@@ -48,6 +48,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "qzltime",
+      "modName": "QZL",
+      "time": "2026-06-14T15:53:07.383Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "thugger",
