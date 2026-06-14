@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 20,
+  "downloadsTotal": 21,
   "popularMods": [
     {
       "count": 7,
@@ -40,9 +40,24 @@
       "count": 1,
       "modId": "thugger",
       "modName": "Thugger redux"
+    },
+    {
+      "count": 1,
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-06-14T10:39:24.511Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "Белый",
+      "version": "1.0.0::variant=light"
+    },
     {
       "action": "install",
       "modId": "vanilla-timecycle-gucci-v3",
