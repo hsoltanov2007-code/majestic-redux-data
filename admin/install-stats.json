@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 22,
+  "downloadsTotal": 23,
   "popularMods": [
     {
       "count": 7,
@@ -10,6 +10,11 @@
       "count": 3,
       "modId": "map-alegri",
       "modName": "vector map alegri"
+    },
+    {
+      "count": 3,
+      "modId": "thugger",
+      "modName": "Thugger redux"
     },
     {
       "count": 2,
@@ -32,11 +37,6 @@
       "modName": "vanilla timecycle gucci v3"
     },
     {
-      "count": 2,
-      "modId": "thugger",
-      "modName": "Thugger redux"
-    },
-    {
       "count": 1,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
@@ -48,6 +48,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "thugger",
+      "modName": "Thugger redux",
+      "time": "2026-06-14T15:52:13.652Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "thugger",
