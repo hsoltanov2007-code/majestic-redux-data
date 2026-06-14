@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 24,
+  "downloadsTotal": 25,
   "popularMods": [
     {
       "count": 8,
@@ -17,6 +17,11 @@
       "modName": "Thugger redux"
     },
     {
+      "count": 3,
+      "modId": "vanilla-timecycle-gucci-v3",
+      "modName": "vanilla timecycle gucci v3"
+    },
+    {
       "count": 2,
       "modId": "mad-redux",
       "modName": "MAD REDUX v3.0"
@@ -32,11 +37,6 @@
       "modName": "Katafalka"
     },
     {
-      "count": 2,
-      "modId": "vanilla-timecycle-gucci-v3",
-      "modName": "vanilla timecycle gucci v3"
-    },
-    {
       "count": 1,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
@@ -48,6 +48,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "vanilla-timecycle-gucci-v3",
+      "modName": "vanilla timecycle gucci v3",
+      "time": "2026-06-14T17:31:55.973Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "qzltime",
