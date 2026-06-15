@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 26,
+  "downloadsTotal": 27,
   "popularMods": [
     {
       "count": 8,
@@ -45,9 +45,24 @@
       "count": 1,
       "modId": "spiderbgp",
       "modName": "SpiderV2 PANIKA"
+    },
+    {
+      "count": 1,
+      "modId": "hardyschoolgp",
+      "modName": "Hardy School"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyschoolgp",
+      "modName": "Hardy School",
+      "time": "2026-06-15T12:55:30.843Z",
+      "userId": "316606982322651146",
+      "username": "boomix131",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "mad-redux",
