@@ -22,15 +22,6 @@
         "text": "Ахуенный редукс, лазил",
         "userId": "650387722607001630",
         "username": "vrix1e"
-      },
-      {
-        "createdAt": "2026-06-14T00:08:11.263Z",
-        "id": "1781395691263-3tzjc5qtjpo",
-        "modId": "hardyv6",
-        "rating": 5,
-        "role": "viewer",
-        "text": "Всё гуд, само лично лазил в файлах и всё там лигит",
-        "username": "vrix1e"
       }
     ],
     "thugger": [
@@ -47,5 +38,5 @@
     ]
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-06-16T16:26:53.918Z"
+  "updatedAt": "2026-06-16T16:26:56.202Z"
 }
