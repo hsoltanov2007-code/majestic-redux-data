@@ -24,16 +24,6 @@
         "username": "vrix1e"
       },
       {
-        "createdAt": "2026-06-14T01:29:40.238Z",
-        "id": "1781400580238-fpnpo446u3",
-        "modId": "hardyv6",
-        "rating": 5,
-        "role": "owner",
-        "text": "kayf",
-        "userId": "1452029134300774414",
-        "username": "sxuyali11"
-      },
-      {
         "createdAt": "2026-06-14T01:18:32.659Z",
         "id": "1781399912659-n3twgmctty",
         "modId": "hardyv6",
@@ -76,5 +66,5 @@
     ]
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-06-16T16:26:47.251Z"
+  "updatedAt": "2026-06-16T16:26:49.561Z"
 }
