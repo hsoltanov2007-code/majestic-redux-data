@@ -12,18 +12,7 @@
         "username": "sxuyali11"
       }
     ],
-    "hardyv6": [
-      {
-        "createdAt": "2026-06-14T19:14:53.054Z",
-        "id": "1781464493054-qqd28ohfn7",
-        "modId": "hardyv6",
-        "rating": 5,
-        "role": "admin",
-        "text": "Ахуенный редукс, лазил",
-        "userId": "650387722607001630",
-        "username": "vrix1e"
-      }
-    ],
+    "hardyv6": [],
     "thugger": [
       {
         "createdAt": "2026-06-14T01:04:48.375Z",
@@ -38,5 +27,5 @@
     ]
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-06-16T16:26:56.202Z"
+  "updatedAt": "2026-06-16T16:27:03.366Z"
 }
