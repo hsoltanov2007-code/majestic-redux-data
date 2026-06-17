@@ -3,19 +3,6 @@
     "hardyv5": [],
     "hardyv6": [
       {
-        "avatar": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/avatar-1781721014208-9333be2f-3733-42e8-8849-0a5d0bb3a01d.png",
-        "cover": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/cover-1781721017276-3d095500-b1e8-4bb3-9db1-d6b2cefa6f31.gif",
-        "coverType": "image",
-        "createdAt": "2026-06-17T18:30:13.843Z",
-        "id": "1781721013843-1sftm7ox1et",
-        "modId": "hardyv6",
-        "rating": 5,
-        "role": "admin",
-        "text": "пенис",
-        "userId": "650387722607001630",
-        "username": "vrix1e"
-      },
-      {
         "avatar": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/avatar-1781721006799-56a4830e-38a4-4e87-b54f-388fb3c4ecd4.png",
         "cover": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/cover-1781721008935-156380f6-cf53-4b22-adc5-278b1363a1d3.gif",
         "coverType": "image",
@@ -43,5 +30,5 @@
     ]
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-06-17T18:30:20.635Z"
+  "updatedAt": "2026-06-17T18:30:22.366Z"
 }
