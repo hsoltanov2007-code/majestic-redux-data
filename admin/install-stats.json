@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 28,
+  "downloadsTotal": 29,
   "popularMods": [
     {
       "count": 9,
@@ -27,7 +27,7 @@
       "modName": "MAD REDUX v3.0"
     },
     {
-      "count": 2,
+      "count": 3,
       "modId": "outlinegp",
       "modName": "Outline Panika"
     },
@@ -53,6 +53,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "outlinegp",
+      "modName": "Outline Panika",
+      "time": "2026-06-17T09:56:22.137Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "spiderbgp",
