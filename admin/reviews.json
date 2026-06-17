@@ -3,8 +3,8 @@
     "hardyv5": [],
     "hardyv6": [
       {
-        "avatar": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/avatar-1781720999181-cc76e8dc-9bae-4efb-91c8-da56de10fe45.png",
-        "cover": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/cover-1781721001680-12b945da-14c7-44c7-b9d5-e082a3257db9.gif",
+        "avatar": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/avatar-1781721006799-56a4830e-38a4-4e87-b54f-388fb3c4ecd4.png",
+        "cover": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/cover-1781721008935-156380f6-cf53-4b22-adc5-278b1363a1d3.gif",
         "coverType": "image",
         "createdAt": "2026-06-17T18:29:58.769Z",
         "id": "1781720998769-lom9u7hn4g8",
@@ -30,5 +30,5 @@
     ]
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-06-17T18:30:04.960Z"
+  "updatedAt": "2026-06-17T18:30:12.837Z"
 }
