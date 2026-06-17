@@ -54,6 +54,16 @@
   ],
   "recentInstalls": [
     {
+      "action": "restore",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-06-17T09:55:54.402Z",
+      "userId": "1452029134300774414",
+      "username": "sxuyali11",
+      "variantName": "",
+      "version": ""
+    },
+    {
       "action": "install",
       "modId": "qzltime",
       "modName": "QZL",
