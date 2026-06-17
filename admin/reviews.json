@@ -1,7 +1,21 @@
 {
   "reviews": {
     "hardyv5": [],
-    "hardyv6": [],
+    "hardyv6": [
+      {
+        "avatar": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/avatar-1781721447559-188d2f0e-89a7-4686-ab48-20d2c7456ea5.png",
+        "cover": "https://raw.githubusercontent.com/hsoltanov2007-code/majestic-redux-data/main/admin/review-media/650387722607001630/cover-1781721449886-1496b257-f29f-4c3a-a845-e97d219dc9bd.gif",
+        "coverType": "image",
+        "createdAt": "2026-06-17T18:37:27.161Z",
+        "id": "1781721447161-raqkm763jtg",
+        "modId": "hardyv6",
+        "rating": 5,
+        "role": "admin",
+        "text": "пенис",
+        "userId": "650387722607001630",
+        "username": "vrix1e"
+      }
+    ],
     "thugger": [
       {
         "createdAt": "2026-06-14T01:04:48.375Z",
@@ -16,5 +30,5 @@
     ]
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-06-17T18:30:23.730Z"
+  "updatedAt": "2026-06-17T18:37:32.806Z"
 }
