@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 29,
+  "downloadsTotal": 30,
   "popularMods": [
     {
       "count": 9,
@@ -50,9 +50,24 @@
       "count": 1,
       "modId": "hardyschoolgp",
       "modName": "Hardy School"
+    },
+    {
+      "count": 1,
+      "modId": "prinstreamx492",
+      "modName": "Prinstream x 492 PANIKA"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "prinstreamx492",
+      "modName": "Prinstream x 492 PANIKA",
+      "time": "2026-06-18T18:28:41.659Z",
+      "userId": "316606982322651146",
+      "username": "boomix131",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "outlinegp",
