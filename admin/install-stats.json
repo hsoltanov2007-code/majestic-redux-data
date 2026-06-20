@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 31,
+  "downloadsTotal": 32,
   "popularMods": [
     {
       "count": 9,
@@ -37,6 +37,11 @@
       "modName": "Katafalka"
     },
     {
+      "count": 2,
+      "modId": "hardyv6",
+      "modName": "HARDY V6"
+    },
+    {
       "count": 1,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
@@ -55,14 +60,19 @@
       "count": 1,
       "modId": "prinstreamx492",
       "modName": "Prinstream x 492 PANIKA"
-    },
-    {
-      "count": 1,
-      "modId": "hardyv6",
-      "modName": "HARDY V6"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyv6",
+      "modName": "HARDY V6",
+      "time": "2026-06-20T14:13:29.092Z",
+      "userId": "650387722607001630",
+      "username": "vrix1e",
+      "variantName": "Темный",
+      "version": "1.0.0::variant=dark"
+    },
     {
       "action": "install",
       "modId": "hardyv6",
