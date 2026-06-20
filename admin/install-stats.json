@@ -64,6 +64,16 @@
   ],
   "recentInstalls": [
     {
+      "action": "restore",
+      "modId": "hardyv6",
+      "modName": "HARDY V6",
+      "time": "2026-06-20T14:22:57.933Z",
+      "userId": "650387722607001630",
+      "username": "vrix1e",
+      "variantName": "",
+      "version": ""
+    },
+    {
       "action": "install",
       "modId": "hardyv6",
       "modName": "HARDY V6",
