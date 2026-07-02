@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 32,
+  "downloadsTotal": 33,
   "popularMods": [
     {
       "count": 9,
@@ -60,9 +60,24 @@
       "count": 1,
       "modId": "prinstreamx492",
       "modName": "Prinstream x 492 PANIKA"
+    },
+    {
+      "count": 1,
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid",
+      "time": "2026-07-02T09:08:39.861Z",
+      "userId": "1170706452218904592",
+      "username": "nubela_5799_34684",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "hardyv6",
