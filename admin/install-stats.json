@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 33,
+  "downloadsTotal": 34,
   "popularMods": [
     {
       "count": 9,
@@ -32,14 +32,14 @@
       "modName": "Outline Panika"
     },
     {
-      "count": 2,
-      "modId": "katafalka",
-      "modName": "Katafalka"
+      "count": 3,
+      "modId": "hardyv6",
+      "modName": "HARDY V6"
     },
     {
       "count": 2,
-      "modId": "hardyv6",
-      "modName": "HARDY V6"
+      "modId": "katafalka",
+      "modName": "Katafalka"
     },
     {
       "count": 1,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyv6",
+      "modName": "HARDY V6",
+      "time": "2026-07-02T09:15:17.102Z",
+      "userId": "1170706452218904592",
+      "username": "nubela_5799_34684",
+      "variantName": "Темный",
+      "version": "1.0.0::variant=dark"
+    },
     {
       "action": "install",
       "modId": "hardyliquid",
