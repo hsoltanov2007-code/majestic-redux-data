@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 34,
+  "downloadsTotal": 35,
   "popularMods": [
     {
       "count": 9,
@@ -42,14 +42,14 @@
       "modName": "Katafalka"
     },
     {
-      "count": 1,
-      "modId": "pinkgp",
-      "modName": "Pink PANIKA"
+      "count": 2,
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA"
     },
     {
       "count": 1,
-      "modId": "spiderbgp",
-      "modName": "SpiderV2 PANIKA"
+      "modId": "pinkgp",
+      "modName": "Pink PANIKA"
     },
     {
       "count": 1,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-07-13T21:16:57.696Z",
+      "userId": "1006180452102590464",
+      "username": "mias1t",
+      "variantName": "Белый",
+      "version": "1.0.0::variant=light"
+    },
     {
       "action": "install",
       "modId": "hardyv6",
