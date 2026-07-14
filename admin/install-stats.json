@@ -1,8 +1,8 @@
 {
-  "downloadsTotal": 36,
+  "downloadsTotal": 37,
   "popularMods": [
     {
-      "count": 9,
+      "count": 10,
       "modId": "qzltime",
       "modName": "QZL"
     },
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "qzltime",
+      "modName": "QZL",
+      "time": "2026-07-14T06:36:19.452Z",
+      "userId": "1006180452102590464",
+      "username": "mias1t",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "map-alegri",
