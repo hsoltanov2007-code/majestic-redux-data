@@ -70,6 +70,16 @@
   "recentInstalls": [
     {
       "action": "restore",
+      "modId": "qzltime",
+      "modName": "qzltime",
+      "time": "2026-07-14T17:52:17.610Z",
+      "userId": "1006180452102590464",
+      "username": "mias1t",
+      "variantName": "",
+      "version": ""
+    },
+    {
+      "action": "restore",
       "modId": "spiderbgp",
       "modName": "spiderbgp",
       "time": "2026-07-14T17:52:07.053Z",
