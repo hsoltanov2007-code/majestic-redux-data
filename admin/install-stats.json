@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 37,
+  "downloadsTotal": 38,
   "popularMods": [
     {
       "count": 10,
@@ -12,6 +12,11 @@
       "modName": "vector map alegri"
     },
     {
+      "count": 4,
+      "modId": "mad-redux",
+      "modName": "MAD REDUX v3.0"
+    },
+    {
       "count": 3,
       "modId": "thugger",
       "modName": "Thugger redux"
@@ -20,11 +25,6 @@
       "count": 3,
       "modId": "vanilla-timecycle-gucci-v3",
       "modName": "vanilla timecycle gucci v3"
-    },
-    {
-      "count": 3,
-      "modId": "mad-redux",
-      "modName": "MAD REDUX v3.0"
     },
     {
       "count": 3,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "mad-redux",
+      "modName": "MAD REDUX v3.0",
+      "time": "2026-07-14T14:22:02.280Z",
+      "userId": "316606982322651146",
+      "username": "boomix131",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "qzltime",
