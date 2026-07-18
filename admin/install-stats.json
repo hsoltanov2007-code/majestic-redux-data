@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 38,
+  "downloadsTotal": 39,
   "popularMods": [
     {
       "count": 10,
@@ -17,7 +17,7 @@
       "modName": "MAD REDUX v3.0"
     },
     {
-      "count": 3,
+      "count": 4,
       "modId": "thugger",
       "modName": "Thugger redux"
     },
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "thugger",
+      "modName": "Thugger redux",
+      "time": "2026-07-18T21:42:31.594Z",
+      "userId": "542710445824540675",
+      "username": "weales1",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "qzltime",
