@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "tickets": [
     {
+      "createdAt": "2026-07-23T10:00:58.236Z",
+      "id": "8a32059d-feae-4c04-8f6e-2808a48e8dfb",
+      "message": "здраствуйте при установке чего либо у меня ошибка os error 5",
+      "replies": [],
+      "status": "open",
+      "updatedAt": "2026-07-23T10:00:58.236Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory"
+    },
+    {
       "createdAt": "2026-06-04T14:36:17.981Z",
       "id": "3b762b06-275d-427e-a6d7-c06b7d5f68af",
       "message": "Авто-отчет Hardy MODS\nСтатус: Обновлений нет\nВерсия: 0.1.87\nGTA: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\nСистемная папка: по умолчанию\nУстановлено модов: 1\nПоследний шаг: нет",
