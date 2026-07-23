@@ -69,6 +69,16 @@
   ],
   "recentInstalls": [
     {
+      "action": "restore",
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid",
+      "time": "2026-07-23T09:57:03.302Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": ""
+    },
+    {
       "action": "install",
       "modId": "hardyliquid",
       "modName": "Hardy Liquid",
