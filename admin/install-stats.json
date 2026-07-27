@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 42,
+  "downloadsTotal": 43,
   "popularMods": [
     {
       "count": 10,
@@ -37,14 +37,14 @@
       "modName": "Outline Panika"
     },
     {
-      "count": 2,
-      "modId": "katafalka",
-      "modName": "Katafalka"
+      "count": 3,
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA"
     },
     {
       "count": 2,
-      "modId": "spiderbgp",
-      "modName": "SpiderV2 PANIKA"
+      "modId": "katafalka",
+      "modName": "Katafalka"
     },
     {
       "count": 2,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-07-27T20:57:54.958Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "Белый",
+      "version": "1.0.0::variant=light"
+    },
     {
       "action": "install",
       "modId": "map-alegri",
