@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 41,
+  "downloadsTotal": 42,
   "popularMods": [
     {
       "count": 10,
@@ -7,7 +7,7 @@
       "modName": "QZL"
     },
     {
-      "count": 4,
+      "count": 5,
       "modId": "map-alegri",
       "modName": "vector map alegri"
     },
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-07-27T19:44:27.969Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "hardyv6",
