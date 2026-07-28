@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 43,
+  "downloadsTotal": 44,
   "popularMods": [
     {
       "count": 10,
@@ -27,6 +27,11 @@
       "modName": "HARDY V6"
     },
     {
+      "count": 4,
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA"
+    },
+    {
       "count": 3,
       "modId": "vanilla-timecycle-gucci-v3",
       "modName": "vanilla timecycle gucci v3"
@@ -35,11 +40,6 @@
       "count": 3,
       "modId": "outlinegp",
       "modName": "Outline Panika"
-    },
-    {
-      "count": 3,
-      "modId": "spiderbgp",
-      "modName": "SpiderV2 PANIKA"
     },
     {
       "count": 2,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-07-28T10:26:30.154Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "Белый",
+      "version": "1.0.0::variant=light"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
