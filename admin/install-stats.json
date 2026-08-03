@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 44,
+  "downloadsTotal": 45,
   "popularMods": [
     {
       "count": 10,
@@ -10,6 +10,11 @@
       "count": 5,
       "modId": "map-alegri",
       "modName": "vector map alegri"
+    },
+    {
+      "count": 5,
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA"
     },
     {
       "count": 4,
@@ -25,11 +30,6 @@
       "count": 4,
       "modId": "hardyv6",
       "modName": "HARDY V6"
-    },
-    {
-      "count": 4,
-      "modId": "spiderbgp",
-      "modName": "SpiderV2 PANIKA"
     },
     {
       "count": 3,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-08-03T17:23:00.750Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "Белый",
+      "version": "1.0.0::variant=light"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
