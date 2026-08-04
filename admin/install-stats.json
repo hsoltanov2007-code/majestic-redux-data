@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 45,
+  "downloadsTotal": 46,
   "popularMods": [
     {
       "count": 10,
@@ -42,7 +42,7 @@
       "modName": "Outline Panika"
     },
     {
-      "count": 2,
+      "count": 3,
       "modId": "katafalka",
       "modName": "Katafalka"
     },
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "katafalka",
+      "modName": "Katafalka",
+      "time": "2026-08-04T09:49:30.125Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
