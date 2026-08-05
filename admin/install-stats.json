@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 47,
+  "downloadsTotal": 48,
   "popularMods": [
     {
       "count": 10,
@@ -52,6 +52,11 @@
       "modName": "Hardy Liquid"
     },
     {
+      "count": 2,
+      "modId": "prinstreamx492",
+      "modName": "Prinstream x 492 PANIKA"
+    },
+    {
       "count": 1,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
@@ -60,14 +65,19 @@
       "count": 1,
       "modId": "hardyschoolgp",
       "modName": "Hardy School"
-    },
-    {
-      "count": 1,
-      "modId": "prinstreamx492",
-      "modName": "Prinstream x 492 PANIKA"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "prinstreamx492",
+      "modName": "Prinstream x 492 PANIKA",
+      "time": "2026-08-05T11:38:31.297Z",
+      "userId": "1011424292883415100",
+      "username": "envizium4009",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "hardyv6",
