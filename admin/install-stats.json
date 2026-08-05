@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 48,
+  "downloadsTotal": 49,
   "popularMods": [
     {
       "count": 10,
@@ -32,6 +32,11 @@
       "modName": "Thugger redux"
     },
     {
+      "count": 4,
+      "modId": "katafalka",
+      "modName": "Katafalka"
+    },
+    {
       "count": 3,
       "modId": "vanilla-timecycle-gucci-v3",
       "modName": "vanilla timecycle gucci v3"
@@ -40,11 +45,6 @@
       "count": 3,
       "modId": "outlinegp",
       "modName": "Outline Panika"
-    },
-    {
-      "count": 3,
-      "modId": "katafalka",
-      "modName": "Katafalka"
     },
     {
       "count": 2,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "katafalka",
+      "modName": "Katafalka",
+      "time": "2026-08-05T11:38:58.016Z",
+      "userId": "1011424292883415100",
+      "username": "envizium4009",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "prinstreamx492",
