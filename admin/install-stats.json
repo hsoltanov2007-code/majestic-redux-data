@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 46,
+  "downloadsTotal": 47,
   "popularMods": [
     {
       "count": 10,
@@ -17,6 +17,11 @@
       "modName": "SpiderV2 PANIKA"
     },
     {
+      "count": 5,
+      "modId": "hardyv6",
+      "modName": "HARDY V6"
+    },
+    {
       "count": 4,
       "modId": "mad-redux",
       "modName": "MAD REDUX v3.0"
@@ -25,11 +30,6 @@
       "count": 4,
       "modId": "thugger",
       "modName": "Thugger redux"
-    },
-    {
-      "count": 4,
-      "modId": "hardyv6",
-      "modName": "HARDY V6"
     },
     {
       "count": 3,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyv6",
+      "modName": "HARDY V6",
+      "time": "2026-08-05T11:36:59.929Z",
+      "userId": "1011424292883415100",
+      "username": "envizium4009",
+      "variantName": "Темный",
+      "version": "1.0.0::variant=dark"
+    },
     {
       "action": "install",
       "modId": "katafalka",
