@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 59,
+  "downloadsTotal": 60,
   "popularMods": [
     {
       "count": 11,
@@ -17,6 +17,11 @@
       "modName": "Katafalka"
     },
     {
+      "count": 6,
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid"
+    },
+    {
       "count": 5,
       "modId": "map-alegri",
       "modName": "vector map alegri"
@@ -25,11 +30,6 @@
       "count": 5,
       "modId": "hardyv6",
       "modName": "HARDY V6"
-    },
-    {
-      "count": 5,
-      "modId": "hardyliquid",
-      "modName": "Hardy Liquid"
     },
     {
       "count": 4,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid",
+      "time": "2026-08-07T17:29:35.669Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "hardyliquid",
@@ -857,16 +867,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": ""
-    },
-    {
-      "action": "install",
-      "modId": "qzltime",
-      "modName": "qzltime",
-      "time": "2026-06-10T15:26:47.262Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
     }
   ],
   "schemaVersion": 1
