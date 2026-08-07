@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 61,
+  "downloadsTotal": 62,
   "popularMods": [
     {
       "count": 11,
@@ -42,14 +42,14 @@
       "modName": "Thugger redux"
     },
     {
-      "count": 3,
-      "modId": "vanilla-timecycle-gucci-v3",
-      "modName": "vanilla timecycle gucci v3"
+      "count": 4,
+      "modId": "outlinegp",
+      "modName": "Outline Panika"
     },
     {
       "count": 3,
-      "modId": "outlinegp",
-      "modName": "Outline Panika"
+      "modId": "vanilla-timecycle-gucci-v3",
+      "modName": "vanilla timecycle gucci v3"
     },
     {
       "count": 2,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "outlinegp",
+      "modName": "Outline Panika",
+      "time": "2026-08-07T17:46:37.399Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "hardyliquid",
@@ -857,16 +867,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": "1.0.0"
-    },
-    {
-      "action": "restore",
-      "modId": "qzltime",
-      "modName": "QZL",
-      "time": "2026-06-10T19:30:24.347Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": ""
     }
   ],
   "schemaVersion": 1
