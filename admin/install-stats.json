@@ -1,8 +1,8 @@
 {
-  "downloadsTotal": 51,
+  "downloadsTotal": 52,
   "popularMods": [
     {
-      "count": 10,
+      "count": 11,
       "modId": "qzltime",
       "modName": "QZL"
     },
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "qzltime",
+      "modName": "QZL",
+      "time": "2026-08-07T14:23:27.768Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
