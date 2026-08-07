@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 49,
+  "downloadsTotal": 50,
   "popularMods": [
     {
       "count": 10,
@@ -47,7 +47,7 @@
       "modName": "Outline Panika"
     },
     {
-      "count": 2,
+      "count": 3,
       "modId": "hardyliquid",
       "modName": "Hardy Liquid"
     },
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid",
+      "time": "2026-08-07T13:50:22.707Z",
+      "userId": "784019655785971742",
+      "username": "makc_max",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "katafalka",
