@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 52,
+  "downloadsTotal": 53,
   "popularMods": [
     {
       "count": 11,
@@ -22,6 +22,11 @@
       "modName": "HARDY V6"
     },
     {
+      "count": 5,
+      "modId": "katafalka",
+      "modName": "Katafalka"
+    },
+    {
       "count": 4,
       "modId": "mad-redux",
       "modName": "MAD REDUX v3.0"
@@ -30,11 +35,6 @@
       "count": 4,
       "modId": "thugger",
       "modName": "Thugger redux"
-    },
-    {
-      "count": 4,
-      "modId": "katafalka",
-      "modName": "Katafalka"
     },
     {
       "count": 3,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "katafalka",
+      "modName": "Katafalka",
+      "time": "2026-08-07T14:23:54.223Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "qzltime",
