@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 58,
+  "downloadsTotal": 59,
   "popularMods": [
     {
       "count": 11,
@@ -27,6 +27,11 @@
       "modName": "HARDY V6"
     },
     {
+      "count": 5,
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid"
+    },
+    {
       "count": 4,
       "modId": "mad-redux",
       "modName": "MAD REDUX v3.0"
@@ -35,11 +40,6 @@
       "count": 4,
       "modId": "thugger",
       "modName": "Thugger redux"
-    },
-    {
-      "count": 4,
-      "modId": "hardyliquid",
-      "modName": "Hardy Liquid"
     },
     {
       "count": 3,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid",
+      "time": "2026-08-07T17:16:20.082Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
@@ -855,16 +865,6 @@
       "time": "2026-06-10T15:26:47.262Z",
       "userId": "1452029134300774414",
       "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
-    },
-    {
-      "action": "install",
-      "modId": "pinkgp",
-      "modName": "Pink PANIKA",
-      "time": "2026-06-06T23:14:09.314Z",
-      "userId": "602158177341145099",
-      "username": "chikifrixxs",
       "variantName": "",
       "version": "1.0.0"
     }
