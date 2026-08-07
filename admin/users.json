@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "users": [
     {
+      "avatar": "0bd5353d9a56a7a3c488e9215d042667",
+      "createdAt": "2026-08-07T13:44:50.433Z",
+      "discordId": "784019655785971742",
+      "lastSeenAt": "2026-08-07T13:44:50.433Z",
+      "role": "viewer",
+      "username": "makc_max"
+    },
+    {
       "avatar": "3fe158b83df576d0e3833c1c8210a2fe",
       "createdAt": "2026-08-05T11:28:24.596Z",
       "discordId": "1011424292883415100",
