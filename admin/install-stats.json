@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 55,
+  "downloadsTotal": 56,
   "popularMods": [
     {
       "count": 11,
@@ -37,6 +37,11 @@
       "modName": "Thugger redux"
     },
     {
+      "count": 4,
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid"
+    },
+    {
       "count": 3,
       "modId": "vanilla-timecycle-gucci-v3",
       "modName": "vanilla timecycle gucci v3"
@@ -45,11 +50,6 @@
       "count": 3,
       "modId": "outlinegp",
       "modName": "Outline Panika"
-    },
-    {
-      "count": 3,
-      "modId": "hardyliquid",
-      "modName": "Hardy Liquid"
     },
     {
       "count": 2,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid",
+      "time": "2026-08-07T14:32:13.905Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
