@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 60,
+  "downloadsTotal": 61,
   "popularMods": [
     {
       "count": 11,
@@ -12,14 +12,14 @@
       "modName": "SpiderV2 PANIKA"
     },
     {
-      "count": 6,
-      "modId": "katafalka",
-      "modName": "Katafalka"
+      "count": 7,
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid"
     },
     {
       "count": 6,
-      "modId": "hardyliquid",
-      "modName": "Hardy Liquid"
+      "modId": "katafalka",
+      "modName": "Katafalka"
     },
     {
       "count": 5,
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyliquid",
+      "modName": "Hardy Liquid",
+      "time": "2026-08-07T17:45:21.463Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "restore",
       "modId": "spiderbgp",
@@ -857,16 +867,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": ""
-    },
-    {
-      "action": "install",
-      "modId": "qzltime",
-      "modName": "qzltime",
-      "time": "2026-06-10T19:20:05.845Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
     }
   ],
   "schemaVersion": 1
