@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 57,
+  "downloadsTotal": 58,
   "popularMods": [
     {
       "count": 11,
@@ -7,7 +7,7 @@
       "modName": "QZL"
     },
     {
-      "count": 8,
+      "count": 9,
       "modId": "spiderbgp",
       "modName": "SpiderV2 PANIKA"
     },
@@ -68,6 +68,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-08-07T15:18:16.488Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "Белый",
+      "version": "1.0.0::variant=light"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
