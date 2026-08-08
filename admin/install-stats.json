@@ -69,6 +69,16 @@
   ],
   "recentInstalls": [
     {
+      "action": "restore",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-08-08T15:58:58.187Z",
+      "userId": "355324505176145920",
+      "username": "harik52",
+      "variantName": "",
+      "version": ""
+    },
+    {
       "action": "install",
       "modId": "outlinegp",
       "modName": "Outline Panika",
@@ -857,16 +867,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": ""
-    },
-    {
-      "action": "install",
-      "modId": "qzltime",
-      "modName": "QZL",
-      "time": "2026-06-10T20:43:46.578Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
     }
   ],
   "schemaVersion": 1
