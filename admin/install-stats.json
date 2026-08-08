@@ -74,6 +74,16 @@
   ],
   "recentInstalls": [
     {
+      "action": "restore",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-08-08T23:57:05.113Z",
+      "userId": "355324505176145920",
+      "username": "harik52",
+      "variantName": "",
+      "version": ""
+    },
+    {
       "action": "install",
       "modId": "map-alegri",
       "modName": "vector map alegri",
@@ -862,16 +872,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": "1.0.0"
-    },
-    {
-      "action": "restore",
-      "modId": "qzltime",
-      "modName": "QZL",
-      "time": "2026-06-13T20:11:43.727Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": ""
     }
   ],
   "schemaVersion": 1
