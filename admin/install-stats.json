@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 63,
+  "downloadsTotal": 64,
   "popularMods": [
     {
       "count": 11,
@@ -22,7 +22,7 @@
       "modName": "Katafalka"
     },
     {
-      "count": 5,
+      "count": 6,
       "modId": "map-alegri",
       "modName": "vector map alegri"
     },
@@ -73,6 +73,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-08-08T23:56:29.156Z",
+      "userId": "355324505176145920",
+      "username": "harik52",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "lightgp",
@@ -862,16 +872,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": ""
-    },
-    {
-      "action": "install",
-      "modId": "qzltime",
-      "modName": "QZL",
-      "time": "2026-06-11T12:29:43.500Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
     }
   ],
   "schemaVersion": 1
