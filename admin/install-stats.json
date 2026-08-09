@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 68,
+  "downloadsTotal": 69,
   "popularMods": [
     {
       "count": 11,
@@ -12,7 +12,7 @@
       "modName": "SpiderV2 PANIKA"
     },
     {
-      "count": 8,
+      "count": 9,
       "modId": "map-alegri",
       "modName": "vector map alegri"
     },
@@ -78,6 +78,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "map-alegri",
+      "modName": "vector map alegri",
+      "time": "2026-08-09T00:55:36.447Z",
+      "userId": "355324505176145920",
+      "username": "harik52",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "map-alegri",
@@ -867,16 +877,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": ""
-    },
-    {
-      "action": "install",
-      "modId": "vanilla-timecycle-gucci-v3",
-      "modName": "vanilla timecycle gucci v3",
-      "time": "2026-06-13T21:03:39.556Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
     }
   ],
   "schemaVersion": 1
