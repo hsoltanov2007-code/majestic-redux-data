@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 66,
+  "downloadsTotal": 67,
   "popularMods": [
     {
       "count": 11,
@@ -57,6 +57,11 @@
       "modName": "Prinstream x 492 PANIKA"
     },
     {
+      "count": 2,
+      "modId": "hardyv5",
+      "modName": "HARDY V5"
+    },
+    {
       "count": 1,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
@@ -70,14 +75,19 @@
       "count": 1,
       "modId": "lightgp",
       "modName": "Light PANIKA"
-    },
-    {
-      "count": 1,
-      "modId": "hardyv5",
-      "modName": "HARDY V5"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyv5",
+      "modName": "HARDY V5",
+      "time": "2026-08-09T00:16:30.189Z",
+      "userId": "355324505176145920",
+      "username": "harik52",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "hardyv5",
@@ -867,16 +877,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": "1.0.0"
-    },
-    {
-      "action": "restore",
-      "modId": "map-alegri",
-      "modName": "vector map alegri",
-      "time": "2026-06-13T20:59:44.445Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": ""
     }
   ],
   "schemaVersion": 1
