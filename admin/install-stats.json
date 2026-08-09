@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 65,
+  "downloadsTotal": 66,
   "popularMods": [
     {
       "count": 11,
@@ -70,9 +70,24 @@
       "count": 1,
       "modId": "lightgp",
       "modName": "Light PANIKA"
+    },
+    {
+      "count": 1,
+      "modId": "hardyv5",
+      "modName": "HARDY V5"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "hardyv5",
+      "modName": "HARDY V5",
+      "time": "2026-08-09T00:03:37.374Z",
+      "userId": "355324505176145920",
+      "username": "harik52",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "map-alegri",
@@ -862,16 +877,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": ""
-    },
-    {
-      "action": "install",
-      "modId": "map-alegri",
-      "modName": "vector map alegri",
-      "time": "2026-06-13T20:55:03.835Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
     }
   ],
   "schemaVersion": 1
