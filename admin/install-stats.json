@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 70,
+  "downloadsTotal": 71,
   "popularMods": [
     {
       "count": 11,
@@ -75,9 +75,24 @@
       "count": 1,
       "modId": "lightgp",
       "modName": "Light PANIKA"
+    },
+    {
+      "count": 1,
+      "modId": "archivegp",
+      "modName": "Archive PANIKA"
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "archivegp",
+      "modName": "Archive PANIKA",
+      "time": "2026-08-10T08:52:55.314Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "spiderbgp",
@@ -863,16 +878,6 @@
       "modId": "map-alegri",
       "modName": "vector map alegri",
       "time": "2026-06-13T21:05:08.774Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
-    },
-    {
-      "action": "install",
-      "modId": "katafalka",
-      "modName": "Katafalka",
-      "time": "2026-06-13T21:04:39.496Z",
       "userId": "1452029134300774414",
       "username": "sxuyali11",
       "variantName": "",
