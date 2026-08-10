@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 69,
+  "downloadsTotal": 70,
   "popularMods": [
     {
       "count": 11,
@@ -7,7 +7,7 @@
       "modName": "QZL"
     },
     {
-      "count": 9,
+      "count": 10,
       "modId": "spiderbgp",
       "modName": "SpiderV2 PANIKA"
     },
@@ -78,6 +78,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "spiderbgp",
+      "modName": "SpiderV2 PANIKA",
+      "time": "2026-08-10T08:51:27.069Z",
+      "userId": "878280091510145034",
+      "username": "voly_dory",
+      "variantName": "Белый",
+      "version": "1.0.0::variant=light"
+    },
     {
       "action": "install",
       "modId": "map-alegri",
@@ -867,16 +877,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": "1.0.0"
-    },
-    {
-      "action": "restore",
-      "modId": "vanilla-timecycle-gucci-v3",
-      "modName": "vanilla timecycle gucci v3",
-      "time": "2026-06-13T21:03:48.820Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": ""
     }
   ],
   "schemaVersion": 1
