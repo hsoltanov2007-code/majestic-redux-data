@@ -1,5 +1,5 @@
 {
-  "downloadsTotal": 71,
+  "downloadsTotal": 72,
   "popularMods": [
     {
       "count": 11,
@@ -62,7 +62,7 @@
       "modName": "HARDY V5"
     },
     {
-      "count": 1,
+      "count": 2,
       "modId": "pinkgp",
       "modName": "Pink PANIKA"
     },
@@ -83,6 +83,16 @@
     }
   ],
   "recentInstalls": [
+    {
+      "action": "install",
+      "modId": "pinkgp",
+      "modName": "Pink PANIKA",
+      "time": "2026-08-16T21:35:36.491Z",
+      "userId": "1011424292883415100",
+      "username": "envizium4009",
+      "variantName": "",
+      "version": "1.0.0"
+    },
     {
       "action": "install",
       "modId": "archivegp",
@@ -872,16 +882,6 @@
       "username": "sxuyali11",
       "variantName": "",
       "version": ""
-    },
-    {
-      "action": "install",
-      "modId": "map-alegri",
-      "modName": "vector map alegri",
-      "time": "2026-06-13T21:05:08.774Z",
-      "userId": "1452029134300774414",
-      "username": "sxuyali11",
-      "variantName": "",
-      "version": "1.0.0"
     }
   ],
   "schemaVersion": 1
